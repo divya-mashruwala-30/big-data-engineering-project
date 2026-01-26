@@ -1,0 +1,3182 @@
+[
+  {
+    "faculty_id":1,
+    "name":"Abhishek gupta",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical and Computer Engineering), Toronto Metropolitan University, Canada",
+    "bio":"Abhishek gupta is a Faculty at DA-IICT. Educational background: PhD (Electrical and Computer Engineering), Toronto Metropolitan University, Canada. Research interests include Machine Learning, Statistical Signal Processing, RF Communications, Computer Vision, Autonomous Vehicles.",
+    "specialization_list":[
+      "machine learning",
+      "statistical signal processing",
+      "rf communications",
+      "computer vision",
+      "autonomous vehicles"
+    ],
+    "research_tags":[
+      "autonomous",
+      "communications",
+      "computer",
+      "learning",
+      "machine",
+      "processing",
+      "signal",
+      "statistical",
+      "vehicles",
+      "vision"
+    ],
+    "email":"abhishek_gupta@dau.ac.in",
+    "phone":"07968261598",
+    "address":"# 3208, FB-3, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Abhishek gupta Faculty Abhishek gupta is a Faculty at DA-IICT. Educational background: PhD (Electrical and Computer Engineering), Toronto Metropolitan University, Canada. Research interests include Machine Learning, Statistical Signal Processing, RF Communications, Computer Vision, Autonomous Vehicles. machine learning statistical signal processing rf communications computer vision autonomous vehicles"
+  },
+  {
+    "faculty_id":2,
+    "name":"Abhishek jindal",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electronics & Communication Engineering), IIT Delhi",
+    "bio":"Abhishek jindal is a Faculty at DA-IICT. Educational background: PhD (Electronics & Communication Engineering), IIT Delhi. Research interests include Reinforcement Learning, Deep Learning for Finance and Cyber Security, Wireless Communication, Cyber-Physical Systems, Information Security.",
+    "specialization_list":[
+      "reinforcement learning",
+      "deep learning for finance and cyber security",
+      "wireless communication",
+      "cyber-physical systems",
+      "information security"
+    ],
+    "research_tags":[
+      "and",
+      "communication",
+      "cyber",
+      "cyber-physical",
+      "deep",
+      "finance",
+      "for",
+      "information",
+      "learning",
+      "reinforcement",
+      "security",
+      "systems",
+      "wireless"
+    ],
+    "email":"abhishek_jindal@dau.ac.in",
+    "phone":"07968261654",
+    "address":"# 4101, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Abhishek jindal Faculty Abhishek jindal is a Faculty at DA-IICT. Educational background: PhD (Electronics & Communication Engineering), IIT Delhi. Research interests include Reinforcement Learning, Deep Learning for Finance and Cyber Security, Wireless Communication, Cyber-Physical Systems, Information Security. reinforcement learning deep learning for finance and cyber security wireless communication cyber-physical systems information security"
+  },
+  {
+    "faculty_id":3,
+    "name":"Abhishek tilva",
+    "faculty_type":"Faculty",
+    "education":"PhD (Statistics), Columbia University, New York, USA",
+    "bio":"Abhishek tilva is a Faculty at DA-IICT. Educational background: PhD (Statistics), Columbia University, New York, USA. Research interests include Arbitrage Theory, Stochastic Portfolio Theory, Stochastic Analysis.",
+    "specialization_list":[
+      "arbitrage theory",
+      "stochastic portfolio theory",
+      "stochastic analysis"
+    ],
+    "research_tags":[
+      "analysis",
+      "arbitrage",
+      "portfolio",
+      "stochastic",
+      "theory"
+    ],
+    "email":"abhishek_tilva@dau.ac.in",
+    "phone":"07968261549",
+    "address":"# 2209, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Abhishek tilva Faculty Abhishek tilva is a Faculty at DA-IICT. Educational background: PhD (Statistics), Columbia University, New York, USA. Research interests include Arbitrage Theory, Stochastic Portfolio Theory, Stochastic Analysis. arbitrage theory stochastic portfolio theory stochastic analysis"
+  },
+  {
+    "faculty_id":4,
+    "name":"Aditya tatu",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), University of Copenhagen, Denmark",
+    "bio":"Aditya tatu is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Copenhagen, Denmark. Research interests include Computer Vision, Image Processing, Pattern Recognition, Signal Processing.",
+    "specialization_list":[
+      "computer vision",
+      "image processing",
+      "pattern recognition",
+      "signal processing"
+    ],
+    "research_tags":[
+      "computer",
+      "image",
+      "pattern",
+      "processing",
+      "recognition",
+      "signal",
+      "vision"
+    ],
+    "email":"aditya_tatu@dau.ac.in",
+    "phone":"07968261540",
+    "address":"#1206, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Aditya tatu Faculty Aditya tatu is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Copenhagen, Denmark. Research interests include Computer Vision, Image Processing, Pattern Recognition, Signal Processing. computer vision image processing pattern recognition signal processing"
+  },
+  {
+    "faculty_id":5,
+    "name":"Ajay beniwal",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electronics and Communication Engineering), IIIT Allahabad",
+    "bio":"Ajay beniwal is a Faculty at DA-IICT. Educational background: PhD (Electronics and Communication Engineering), IIIT Allahabad. Research interests include Flexible and Printable Electronics for Healthcare and Digital Agricultural Applications, Smart Sensing Technologies with Wireless Connectivity, Sensor Materials and Nanocomposites, Sustainable and Green Electronics..",
+    "specialization_list":[
+      "flexible and printable electronics for healthcare and digital agricultural applications",
+      "smart sensing technologies with wireless connectivity",
+      "sensor materials and nanocomposites",
+      "sustainable and green electronics."
+    ],
+    "research_tags":[
+      "agricultural",
+      "and",
+      "applications",
+      "connectivity",
+      "digital",
+      "electronics",
+      "electronics.",
+      "flexible",
+      "for",
+      "green",
+      "healthcare",
+      "materials",
+      "nanocomposites",
+      "printable",
+      "sensing",
+      "sensor",
+      "smart",
+      "sustainable",
+      "technologies",
+      "wireless",
+      "with"
+    ],
+    "email":"ajay_beniwal@dau.ac.in",
+    "phone":"07968261745",
+    "address":"# 3211, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Ajay beniwal Faculty Ajay beniwal is a Faculty at DA-IICT. Educational background: PhD (Electronics and Communication Engineering), IIIT Allahabad. Research interests include Flexible and Printable Electronics for Healthcare and Digital Agricultural Applications, Smart Sensing Technologies with Wireless Connectivity, Sensor Materials and Nanocomposites, Sustainable and Green Electronics.. flexible and printable electronics for healthcare and digital agricultural applications smart sensing technologies with wireless connectivity sensor materials and nanocomposites sustainable and green electronics."
+  },
+  {
+    "faculty_id":6,
+    "name":"Amit mankodi",
+    "faculty_type":"Faculty",
+    "education":"PhD, DA-IICT Gandhinagar",
+    "bio":"Amit mankodi is a Faculty at DA-IICT. Educational background: PhD, DA-IICT Gandhinagar. Research interests include Embedded Systems, Computer Networks, High Performance Computing, Machine Learning.",
+    "specialization_list":[
+      "embedded systems",
+      "computer networks",
+      "high performance computing",
+      "machine learning"
+    ],
+    "research_tags":[
+      "computer",
+      "computing",
+      "embedded",
+      "high",
+      "learning",
+      "machine",
+      "networks",
+      "performance",
+      "systems"
+    ],
+    "email":"amit_mankodi@dau.ac.in",
+    "phone":"Not Available",
+    "address":"# 4205, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Amit mankodi Faculty Amit mankodi is a Faculty at DA-IICT. Educational background: PhD, DA-IICT Gandhinagar. Research interests include Embedded Systems, Computer Networks, High Performance Computing, Machine Learning. embedded systems computer networks high performance computing machine learning"
+  },
+  {
+    "faculty_id":7,
+    "name":"Anil roy (on leave)",
+    "faculty_type":"Faculty",
+    "education":"PhD (Physics), IIT Delhi",
+    "bio":"Anil roy (on leave) is a Faculty at DA-IICT. Educational background: PhD (Physics), IIT Delhi. Research interests include Applications of Image Processing, Fiber Optics and Optical Communication, High speed Semiconductor Devices, Nanoscience and Nanotechnology, Quantum Optics, Technologies for Humanitarian Challenges..",
+    "specialization_list":[
+      "applications of image processing",
+      "fiber optics and optical communication",
+      "high speed semiconductor devices",
+      "nanoscience and nanotechnology",
+      "quantum optics",
+      "technologies for humanitarian challenges."
+    ],
+    "research_tags":[
+      "and",
+      "applications",
+      "challenges.",
+      "communication",
+      "devices",
+      "fiber",
+      "for",
+      "high",
+      "humanitarian",
+      "image",
+      "nanoscience",
+      "nanotechnology",
+      "optical",
+      "optics",
+      "processing",
+      "quantum",
+      "semiconductor",
+      "speed",
+      "technologies"
+    ],
+    "email":"anil_roy@dau.ac.in",
+    "phone":"07968261613",
+    "address":"# 1104, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Anil roy (on leave) Faculty Anil roy (on leave) is a Faculty at DA-IICT. Educational background: PhD (Physics), IIT Delhi. Research interests include Applications of Image Processing, Fiber Optics and Optical Communication, High speed Semiconductor Devices, Nanoscience and Nanotechnology, Quantum Optics, Technologies for Humanitarian Challenges.. applications of image processing fiber optics and optical communication high speed semiconductor devices nanoscience and nanotechnology quantum optics technologies for humanitarian challenges."
+  },
+  {
+    "faculty_id":8,
+    "name":"Anish mathuria",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), University of Wollongong, Australia",
+    "bio":"Anish mathuria is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Wollongong, Australia. Research interests include Network Security, Privacy-Preserving Computation, System and Software Security.",
+    "specialization_list":[
+      "network security",
+      "privacy-preserving computation",
+      "system and software security"
+    ],
+    "research_tags":[
+      "and",
+      "computation",
+      "network",
+      "privacy-preserving",
+      "security",
+      "software",
+      "system"
+    ],
+    "email":"anish_mathuria@dau.ac.in",
+    "phone":"07968261541",
+    "address":"# 1105, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Anish mathuria Faculty Anish mathuria is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Wollongong, Australia. Research interests include Network Security, Privacy-Preserving Computation, System and Software Security. network security privacy-preserving computation system and software security"
+  },
+  {
+    "faculty_id":9,
+    "name":"Ankit vijayvargiya",
+    "faculty_type":"Faculty",
+    "education":"PhD (Biomedical Signals), Malaviya National Institute of Technology, Jaipur",
+    "bio":"Ankit vijayvargiya is a Faculty at DA-IICT. Educational background: PhD (Biomedical Signals), Malaviya National Institute of Technology, Jaipur. Research interests include Biomedical Signals, Machine Learning, Neural Rehabilitation, Gait Analysis.",
+    "specialization_list":[
+      "biomedical signals",
+      "machine learning",
+      "neural rehabilitation",
+      "gait analysis"
+    ],
+    "research_tags":[
+      "analysis",
+      "biomedical",
+      "gait",
+      "learning",
+      "machine",
+      "neural",
+      "rehabilitation",
+      "signals"
+    ],
+    "email":"ankit_vijayvargiya@dau.ac.in",
+    "phone":"07968261628",
+    "address":"# 4205, FB-4, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Ankit vijayvargiya Faculty Ankit vijayvargiya is a Faculty at DA-IICT. Educational background: PhD (Biomedical Signals), Malaviya National Institute of Technology, Jaipur. Research interests include Biomedical Signals, Machine Learning, Neural Rehabilitation, Gait Analysis. biomedical signals machine learning neural rehabilitation gait analysis"
+  },
+  {
+    "faculty_id":10,
+    "name":"Ankush chander",
+    "faculty_type":"Faculty",
+    "education":"M.Tech. (ICT), DA-IICT Gandhinagar",
+    "bio":"Ankush chander is a Faculty at DA-IICT. Educational background: M.Tech. (ICT), DA-IICT Gandhinagar. Research interests include Natural Language Processing, Information Retrieval, Operating systems.",
+    "specialization_list":[
+      "natural language processing",
+      "information retrieval",
+      "operating systems"
+    ],
+    "research_tags":[
+      "information",
+      "language",
+      "natural",
+      "operating",
+      "processing",
+      "retrieval",
+      "systems"
+    ],
+    "email":"ankush_chander@dau.ac.in",
+    "phone":"07968261581",
+    "address":"# 3209, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Ankush chander Faculty Ankush chander is a Faculty at DA-IICT. Educational background: M.Tech. (ICT), DA-IICT Gandhinagar. Research interests include Natural Language Processing, Information Retrieval, Operating systems. natural language processing information retrieval operating systems"
+  },
+  {
+    "faculty_id":11,
+    "name":"Anupam rana",
+    "faculty_type":"Faculty",
+    "education":"PhD (Design Management) - Retails Experience-CX, Indus University, Ahmedabad",
+    "bio":"Anupam rana is a Faculty at DA-IICT. Educational background: PhD (Design Management) - Retails Experience-CX, Indus University, Ahmedabad. Research interests include Design Education, Experience Design, Multidisciplinary Research, UIUX, Design Thinking..",
+    "specialization_list":[
+      "design education",
+      "experience design",
+      "multidisciplinary research",
+      "uiux",
+      "design thinking."
+    ],
+    "research_tags":[
+      "design",
+      "education",
+      "experience",
+      "multidisciplinary",
+      "research",
+      "thinking.",
+      "uiux"
+    ],
+    "email":"anupam_rana@dau.ac.in",
+    "phone":"07968261538",
+    "address":"#3210, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Anupam rana Faculty Anupam rana is a Faculty at DA-IICT. Educational background: PhD (Design Management) - Retails Experience-CX, Indus University, Ahmedabad. Research interests include Design Education, Experience Design, Multidisciplinary Research, UIUX, Design Thinking.. design education experience design multidisciplinary research uiux design thinking."
+  },
+  {
+    "faculty_id":12,
+    "name":"Arnab kumar ray",
+    "faculty_type":"Faculty",
+    "education":"PhD (Physics), Jadavpur University, Kolkata",
+    "bio":"Arnab kumar ray is a Faculty at DA-IICT. Educational background: PhD (Physics), Jadavpur University, Kolkata. Research interests include Astrophysical Accretion, Fluid Dynamics, Nonlinear Systems.",
+    "specialization_list":[
+      "astrophysical accretion",
+      "fluid dynamics",
+      "nonlinear systems"
+    ],
+    "research_tags":[
+      "accretion",
+      "astrophysical",
+      "dynamics",
+      "fluid",
+      "nonlinear",
+      "systems"
+    ],
+    "email":"arnab_kumar@dau.ac.in",
+    "phone":"07968261612",
+    "address":"# 2210, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Arnab kumar ray Faculty Arnab kumar ray is a Faculty at DA-IICT. Educational background: PhD (Physics), Jadavpur University, Kolkata. Research interests include Astrophysical Accretion, Fluid Dynamics, Nonlinear Systems. astrophysical accretion fluid dynamics nonlinear systems"
+  },
+  {
+    "faculty_id":13,
+    "name":"Arpit rana",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), University College Cork, Ireland",
+    "bio":"Arpit rana is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University College Cork, Ireland. Research interests include Applied Machine Learning, Recommendation Systems, Multimodality, and their applications in Digital Innovation and Transformation.",
+    "specialization_list":[
+      "applied machine learning",
+      "recommendation systems",
+      "multimodality",
+      "and their applications in digital innovation and transformation"
+    ],
+    "research_tags":[
+      "and",
+      "applications",
+      "applied",
+      "digital",
+      "innovation",
+      "learning",
+      "machine",
+      "multimodality",
+      "recommendation",
+      "systems",
+      "their",
+      "transformation"
+    ],
+    "email":"arpit_rana@dau.ac.in",
+    "phone":"07968261687",
+    "address":"#3105, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Arpit rana Faculty Arpit rana is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University College Cork, Ireland. Research interests include Applied Machine Learning, Recommendation Systems, Multimodality, and their applications in Digital Innovation and Transformation. applied machine learning recommendation systems multimodality and their applications in digital innovation and transformation"
+  },
+  {
+    "faculty_id":14,
+    "name":"Arpita mal",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), Jadavpur University, Kolkata",
+    "bio":"Arpita mal is a Faculty at DA-IICT. Educational background: PhD (Mathematics), Jadavpur University, Kolkata.",
+    "specialization_list":[
+
+    ],
+    "research_tags":[
+
+    ],
+    "email":"arpita_mal@dau.ac.in",
+    "phone":"07968261660",
+    "address":"# 3104, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Arpita mal Faculty Arpita mal is a Faculty at DA-IICT. Educational background: PhD (Mathematics), Jadavpur University, Kolkata. "
+  },
+  {
+    "faculty_id":15,
+    "name":"Bharani kollipara",
+    "faculty_type":"Faculty",
+    "education":"PhD (English), The English and Foreign Languages University, Hyderabad",
+    "bio":"Bharani kollipara is a Faculty at DA-IICT. Educational background: PhD (English), The English and Foreign Languages University, Hyderabad. Research interests include Modern Philosophy, Phenomenology and Hermeneutics, Literary Modernism.",
+    "specialization_list":[
+      "modern philosophy",
+      "phenomenology and hermeneutics",
+      "literary modernism"
+    ],
+    "research_tags":[
+      "and",
+      "hermeneutics",
+      "literary",
+      "modern",
+      "modernism",
+      "phenomenology",
+      "philosophy"
+    ],
+    "email":"bharani_kollipara@dau.ac.in",
+    "phone":"07968261558",
+    "address":"# 2102, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Bharani kollipara Faculty Bharani kollipara is a Faculty at DA-IICT. Educational background: PhD (English), The English and Foreign Languages University, Hyderabad. Research interests include Modern Philosophy, Phenomenology and Hermeneutics, Literary Modernism. modern philosophy phenomenology and hermeneutics literary modernism"
+  },
+  {
+    "faculty_id":16,
+    "name":"Bhaskar chaudhury",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computational Plasma Physics), IPR, Gandhinagar",
+    "bio":"Bhaskar chaudhury is a Faculty at DA-IICT. Educational background: PhD (Computational Plasma Physics), IPR, Gandhinagar. Research interests include Computational Plasma Physics, Computational Data Science, High Performance Scientific Meet Prof. Bhaskar Chaudhury! Computing, Parallel Prog….",
+    "specialization_list":[
+      "computational plasma physics",
+      "computational data science",
+      "high performance scientific meet prof. bhaskar chaudhury! computing",
+      "parallel prog…"
+    ],
+    "research_tags":[
+      "bhaskar",
+      "chaudhury!",
+      "computational",
+      "computing",
+      "data",
+      "high",
+      "meet",
+      "parallel",
+      "performance",
+      "physics",
+      "plasma",
+      "prof.",
+      "prog…",
+      "science",
+      "scientific"
+    ],
+    "email":"bhaskar_chaudhury@dau.ac.in",
+    "phone":"07968261590",
+    "address":"# 2204, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Bhaskar chaudhury Faculty Bhaskar chaudhury is a Faculty at DA-IICT. Educational background: PhD (Computational Plasma Physics), IPR, Gandhinagar. Research interests include Computational Plasma Physics, Computational Data Science, High Performance Scientific Meet Prof. Bhaskar Chaudhury! Computing, Parallel Prog…. computational plasma physics computational data science high performance scientific meet prof. bhaskar chaudhury! computing parallel prog…"
+  },
+  {
+    "faculty_id":17,
+    "name":"Biswajit mishra",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical & Electronics Engineering), University of Southampton, UK",
+    "bio":"Biswajit mishra is a Faculty at DA-IICT. Educational background: PhD (Electrical & Electronics Engineering), University of Southampton, UK. Research interests include Ultra Low Power and Sub-threshold Circuit Methodologies, Very Low Voltage Circuits for Wireless Sensor Networks, Digital IC Design, Power Management for Energy Harvesters, Signal Processing Hardware for Color Image Processing, Geometric Algebra an….",
+    "specialization_list":[
+      "ultra low power and sub-threshold circuit methodologies",
+      "very low voltage circuits for wireless sensor networks",
+      "digital ic design",
+      "power management for energy harvesters",
+      "signal processing hardware for color image processing",
+      "geometric algebra an…"
+    ],
+    "research_tags":[
+      "algebra",
+      "and",
+      "an…",
+      "circuit",
+      "circuits",
+      "color",
+      "design",
+      "digital",
+      "energy",
+      "for",
+      "geometric",
+      "hardware",
+      "harvesters",
+      "image",
+      "low",
+      "management",
+      "methodologies",
+      "networks",
+      "power",
+      "processing",
+      "sensor",
+      "signal",
+      "sub-threshold",
+      "ultra",
+      "very",
+      "voltage",
+      "wireless"
+    ],
+    "email":"biswajit_mishra@dau.ac.in",
+    "phone":"07968261561",
+    "address":"# 2104, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Biswajit mishra Faculty Biswajit mishra is a Faculty at DA-IICT. Educational background: PhD (Electrical & Electronics Engineering), University of Southampton, UK. Research interests include Ultra Low Power and Sub-threshold Circuit Methodologies, Very Low Voltage Circuits for Wireless Sensor Networks, Digital IC Design, Power Management for Energy Harvesters, Signal Processing Hardware for Color Image Processing, Geometric Algebra an…. ultra low power and sub-threshold circuit methodologies very low voltage circuits for wireless sensor networks digital ic design power management for energy harvesters signal processing hardware for color image processing geometric algebra an…"
+  },
+  {
+    "faculty_id":18,
+    "name":"Gautam dutta",
+    "faculty_type":"Faculty",
+    "education":"PhD (Physics), Physical Research Laboratory, Ahmedabad",
+    "bio":"Gautam dutta is a Faculty at DA-IICT. Educational background: PhD (Physics), Physical Research Laboratory, Ahmedabad. Research interests include Theoretical physics.",
+    "specialization_list":[
+      "theoretical physics"
+    ],
+    "research_tags":[
+      "physics",
+      "theoretical"
+    ],
+    "email":"gautam_dutta@dau.ac.in",
+    "phone":"07968261631",
+    "address":"# 1110, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Gautam dutta Faculty Gautam dutta is a Faculty at DA-IICT. Educational background: PhD (Physics), Physical Research Laboratory, Ahmedabad. Research interests include Theoretical physics. theoretical physics"
+  },
+  {
+    "faculty_id":19,
+    "name":"Gopinath panda",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), IIT Bhubaneswar",
+    "bio":"Gopinath panda is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Bhubaneswar. Research interests include Probability and Statistics.",
+    "specialization_list":[
+      "probability and statistics"
+    ],
+    "research_tags":[
+      "and",
+      "probability",
+      "statistics"
+    ],
+    "email":"gopinath_panda@dau.ac.in",
+    "phone":"07968261716",
+    "address":"# 3203, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Gopinath panda Faculty Gopinath panda is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Bhubaneswar. Research interests include Probability and Statistics. probability and statistics"
+  },
+  {
+    "faculty_id":20,
+    "name":"Hemant patil",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), IIT Kharagpur",
+    "bio":"Hemant patil is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Kharagpur. Research interests include Speech Signal Processing, Speech and Speaker Recognition (Voice Biometrics), Development of Countermeasures for Spoofing Attacks on Automatic Speaker Verification, Voice Conversion.",
+    "specialization_list":[
+      "speech signal processing",
+      "speech and speaker recognition (voice biometrics)",
+      "development of countermeasures for spoofing attacks on automatic speaker verification",
+      "voice conversion"
+    ],
+    "research_tags":[
+      "(voice",
+      "and",
+      "attacks",
+      "automatic",
+      "biometrics)",
+      "conversion",
+      "countermeasures",
+      "development",
+      "for",
+      "processing",
+      "recognition",
+      "signal",
+      "speaker",
+      "speech",
+      "spoofing",
+      "verification",
+      "voice"
+    ],
+    "email":"hemant_patil@dau.ac.in,hemant_patil1977@yahoo.com",
+    "phone":"0796826165007968261587",
+    "address":"Office: # 4103, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007. Lab: CEP 006, Speech Lb, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Hemant patil Faculty Hemant patil is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Kharagpur. Research interests include Speech Signal Processing, Speech and Speaker Recognition (Voice Biometrics), Development of Countermeasures for Spoofing Attacks on Automatic Speaker Verification, Voice Conversion. speech signal processing speech and speaker recognition (voice biometrics) development of countermeasures for spoofing attacks on automatic speaker verification voice conversion"
+  },
+  {
+    "faculty_id":21,
+    "name":"Jenson joseph",
+    "faculty_type":"Faculty",
+    "education":"PhD (Communication), University of Hyderabad, Hyderabad",
+    "bio":"Jenson joseph is a Faculty at DA-IICT. Educational background: PhD (Communication), University of Hyderabad, Hyderabad. Research interests include History and theory of Media, Film Studies, Cultural Studies, Malayalam Cinema, Popular Culture.",
+    "specialization_list":[
+      "history and theory of media",
+      "film studies",
+      "cultural studies",
+      "malayalam cinema",
+      "popular culture"
+    ],
+    "research_tags":[
+      "and",
+      "cinema",
+      "cultural",
+      "culture",
+      "film",
+      "history",
+      "malayalam",
+      "media",
+      "popular",
+      "studies",
+      "theory"
+    ],
+    "email":"jenson_joseph@dau.ac.in",
+    "phone":"07968261536",
+    "address":"# 3205, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Jenson joseph Faculty Jenson joseph is a Faculty at DA-IICT. Educational background: PhD (Communication), University of Hyderabad, Hyderabad. Research interests include History and theory of Media, Film Studies, Cultural Studies, Malayalam Cinema, Popular Culture. history and theory of media film studies cultural studies malayalam cinema popular culture"
+  },
+  {
+    "faculty_id":22,
+    "name":"Madhu kant sharma",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), IIT Madras",
+    "bio":"Madhu kant sharma is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Madras. Research interests include Fractional Differential Equations (FDEs), Optimization, Numerical Methods for FDEs, Signal Processing.",
+    "specialization_list":[
+      "fractional differential equations (fdes)",
+      "optimization",
+      "numerical methods for fdes",
+      "signal processing"
+    ],
+    "research_tags":[
+      "(fdes)",
+      "differential",
+      "equations",
+      "fdes",
+      "for",
+      "fractional",
+      "methods",
+      "numerical",
+      "optimization",
+      "processing",
+      "signal"
+    ],
+    "email":"madhukant_sharma@dau.ac.in",
+    "phone":"07968261554",
+    "address":"# 1109, FB-1 , DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Madhu kant sharma Faculty Madhu kant sharma is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Madras. Research interests include Fractional Differential Equations (FDEs), Optimization, Numerical Methods for FDEs, Signal Processing. fractional differential equations (fdes) optimization numerical methods for fdes signal processing"
+  },
+  {
+    "faculty_id":23,
+    "name":"Madhumita mazumdar",
+    "faculty_type":"Faculty",
+    "education":"PhD (Modern History), University of Calcutta, Calcutta",
+    "bio":"Madhumita mazumdar is a Faculty at DA-IICT. Educational background: PhD (Modern History), University of Calcutta, Calcutta. Research interests include Social and Cultural History Science, Technology and Design, History of Modernity and Developmental Practice in Colonial and Post-Colonial India, Economic and Social History of Gujarat.",
+    "specialization_list":[
+      "social and cultural history science",
+      "technology and design",
+      "history of modernity and developmental practice in colonial and post-colonial india",
+      "economic and social history of gujarat"
+    ],
+    "research_tags":[
+      "and",
+      "colonial",
+      "cultural",
+      "design",
+      "developmental",
+      "economic",
+      "gujarat",
+      "history",
+      "india",
+      "modernity",
+      "post-colonial",
+      "practice",
+      "science",
+      "social",
+      "technology"
+    ],
+    "email":"madhumita_mazumdar@dau.ac.in",
+    "phone":"07968261562",
+    "address":"# 2111, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Madhumita mazumdar Faculty Madhumita mazumdar is a Faculty at DA-IICT. Educational background: PhD (Modern History), University of Calcutta, Calcutta. Research interests include Social and Cultural History Science, Technology and Design, History of Modernity and Developmental Practice in Colonial and Post-Colonial India, Economic and Social History of Gujarat. social and cultural history science technology and design history of modernity and developmental practice in colonial and post-colonial india economic and social history of gujarat"
+  },
+  {
+    "faculty_id":24,
+    "name":"Maniklal das",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), IIT Bombay",
+    "bio":"Maniklal das is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Bombay. Research interests include Cyber Security, Privacy, Cryptography, Algorithms.",
+    "specialization_list":[
+      "cyber security",
+      "privacy",
+      "cryptography",
+      "algorithms"
+    ],
+    "research_tags":[
+      "algorithms",
+      "cryptography",
+      "cyber",
+      "privacy",
+      "security"
+    ],
+    "email":"maniklal_das@dau.ac.in",
+    "phone":"079682616179107968261710",
+    "address":"# 2103, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Maniklal das Faculty Maniklal das is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Bombay. Research interests include Cyber Security, Privacy, Cryptography, Algorithms. cyber security privacy cryptography algorithms"
+  },
+  {
+    "faculty_id":25,
+    "name":"Manish chaturvedi",
+    "faculty_type":"Faculty",
+    "education":"PhD (ICT), DA-IICT, Gandhinagar",
+    "bio":"Manish chaturvedi is a Faculty at DA-IICT. Educational background: PhD (ICT), DA-IICT, Gandhinagar. Research interests include Design of Intelligent Transportation Systems, Communication Protocol Design, Embedded Systems and Internet of Things.",
+    "specialization_list":[
+      "design of intelligent transportation systems",
+      "communication protocol design",
+      "embedded systems and internet of things"
+    ],
+    "research_tags":[
+      "and",
+      "communication",
+      "design",
+      "embedded",
+      "intelligent",
+      "internet",
+      "protocol",
+      "systems",
+      "things",
+      "transportation"
+    ],
+    "email":"Not Available",
+    "phone":"07968261645",
+    "address":"# 1111, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Manish chaturvedi Faculty Manish chaturvedi is a Faculty at DA-IICT. Educational background: PhD (ICT), DA-IICT, Gandhinagar. Research interests include Design of Intelligent Transportation Systems, Communication Protocol Design, Embedded Systems and Internet of Things. design of intelligent transportation systems communication protocol design embedded systems and internet of things"
+  },
+  {
+    "faculty_id":26,
+    "name":"Manish kumar",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical Engineering), IIT Patna",
+    "bio":"Manish kumar is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Patna. Research interests include Algorithm Development and Performance Optimization in UAV Networks, Sensor & Ad-Hoc Networks; Applications of AI\/ML, Blockchain in Networks; Internet of Things; Next Generation Wireless Networks: 5G\/6G.",
+    "specialization_list":[
+      "algorithm development and performance optimization in uav networks",
+      "sensor & ad-hoc networks; applications of ai\/ml",
+      "blockchain in networks; internet of things; next generation wireless networks: 5g\/6g"
+    ],
+    "research_tags":[
+      "5g\/6g",
+      "ad-hoc",
+      "ai\/ml",
+      "algorithm",
+      "and",
+      "applications",
+      "blockchain",
+      "development",
+      "generation",
+      "internet",
+      "networks",
+      "networks:",
+      "networks;",
+      "next",
+      "optimization",
+      "performance",
+      "sensor",
+      "things;",
+      "uav",
+      "wireless"
+    ],
+    "email":"manish_kumar@dau.ac.in",
+    "phone":"07968261678",
+    "address":"# 3102, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Manish kumar Faculty Manish kumar is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Patna. Research interests include Algorithm Development and Performance Optimization in UAV Networks, Sensor & Ad-Hoc Networks; Applications of AI\/ML, Blockchain in Networks; Internet of Things; Next Generation Wireless Networks: 5G\/6G. algorithm development and performance optimization in uav networks sensor & ad-hoc networks; applications of ai\/ml blockchain in networks; internet of things; next generation wireless networks: 5g\/6g"
+  },
+  {
+    "faculty_id":27,
+    "name":"Manjunath v. joshi",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical Engineering), IIT Bombay",
+    "bio":"Manjunath v. joshi is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Bombay. Research interests include Signal and Image Processing, Digital Communication, Computer Vision, Machine Learning.",
+    "specialization_list":[
+      "signal and image processing",
+      "digital communication",
+      "computer vision",
+      "machine learning"
+    ],
+    "research_tags":[
+      "and",
+      "communication",
+      "computer",
+      "digital",
+      "image",
+      "learning",
+      "machine",
+      "processing",
+      "signal",
+      "vision"
+    ],
+    "email":"mv_joshi@dau.ac.in",
+    "phone":"07968261611",
+    "address":"# 1203, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Manjunath v. joshi Faculty Manjunath v. joshi is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Bombay. Research interests include Signal and Image Processing, Digital Communication, Computer Vision, Machine Learning. signal and image processing digital communication computer vision machine learning"
+  },
+  {
+    "faculty_id":28,
+    "name":"Manoj raut",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), IIT Madras",
+    "bio":"Manoj raut is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Madras. Research interests include Mathematical Logic.",
+    "specialization_list":[
+      "mathematical logic"
+    ],
+    "research_tags":[
+      "logic",
+      "mathematical"
+    ],
+    "email":"manoj_raut@dau.ac.in",
+    "phone":"07968261585",
+    "address":"# 4112, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Manoj raut Faculty Manoj raut is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Madras. Research interests include Mathematical Logic. mathematical logic"
+  },
+  {
+    "faculty_id":29,
+    "name":"Minal bhise",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), BITS Pilani",
+    "bio":"Minal bhise is a Faculty at DA-IICT. Educational background: PhD (Computer Science), BITS Pilani. Research interests include Distributed Databases - Query Processing, Application Development for Biodiversity Domain, Software System Analysis and Design.",
+    "specialization_list":[
+      "distributed databases - query processing",
+      "application development for biodiversity domain",
+      "software system analysis and design"
+    ],
+    "research_tags":[
+      "analysis",
+      "and",
+      "application",
+      "biodiversity",
+      "databases",
+      "design",
+      "development",
+      "distributed",
+      "domain",
+      "for",
+      "processing",
+      "query",
+      "software",
+      "system"
+    ],
+    "email":"minal_bhise@dau.ac.in",
+    "phone":"07968261548",
+    "address":"# 1209, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Minal bhise Faculty Minal bhise is a Faculty at DA-IICT. Educational background: PhD (Computer Science), BITS Pilani. Research interests include Distributed Databases - Query Processing, Application Development for Biodiversity Domain, Software System Analysis and Design. distributed databases - query processing application development for biodiversity domain software system analysis and design"
+  },
+  {
+    "faculty_id":30,
+    "name":"Mukesh tiwari",
+    "faculty_type":"Faculty",
+    "education":"PhD (Optical Science & Engineering), University of New Mexico, USA",
+    "bio":"Mukesh tiwari is a Faculty at DA-IICT. Educational background: PhD (Optical Science & Engineering), University of New Mexico, USA. Research interests include Nonequilibrium statistical mechanics and Nonlinear dynamics.",
+    "specialization_list":[
+      "nonequilibrium statistical mechanics and nonlinear dynamics"
+    ],
+    "research_tags":[
+      "and",
+      "dynamics",
+      "mechanics",
+      "nonequilibrium",
+      "nonlinear",
+      "statistical"
+    ],
+    "email":"mukesh_tiwari@dau.ac.in",
+    "phone":"07968261614",
+    "address":"# 1112, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Mukesh tiwari Faculty Mukesh tiwari is a Faculty at DA-IICT. Educational background: PhD (Optical Science & Engineering), University of New Mexico, USA. Research interests include Nonequilibrium statistical mechanics and Nonlinear dynamics. nonequilibrium statistical mechanics and nonlinear dynamics"
+  },
+  {
+    "faculty_id":31,
+    "name":"Nabin kumar sahu",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), IIT Kharagpur",
+    "bio":"Nabin kumar sahu is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Kharagpur. Research interests include Frame Theory, Optimization Theory and Applications, Variational Inequalities.",
+    "specialization_list":[
+      "frame theory",
+      "optimization theory and applications",
+      "variational inequalities"
+    ],
+    "research_tags":[
+      "and",
+      "applications",
+      "frame",
+      "inequalities",
+      "optimization",
+      "theory",
+      "variational"
+    ],
+    "email":"nabinkumar_sahu@dau.ac.in",
+    "phone":"07968261642",
+    "address":"# 4212, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Nabin kumar sahu Faculty Nabin kumar sahu is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Kharagpur. Research interests include Frame Theory, Optimization Theory and Applications, Variational Inequalities. frame theory optimization theory and applications variational inequalities"
+  },
+  {
+    "faculty_id":32,
+    "name":"P m jat",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science and Engineering), ML Sukhadia University, Udaipur",
+    "bio":"P m jat is a Faculty at DA-IICT. Educational background: PhD (Computer Science and Engineering), ML Sukhadia University, Udaipur. Research interests include Databases.",
+    "specialization_list":[
+      "databases"
+    ],
+    "research_tags":[
+      "databases"
+    ],
+    "email":"pm_jat@dau.ac.in",
+    "phone":"07968261641",
+    "address":"# 2203, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"P m jat Faculty P m jat is a Faculty at DA-IICT. Educational background: PhD (Computer Science and Engineering), ML Sukhadia University, Udaipur. Research interests include Databases. databases"
+  },
+  {
+    "faculty_id":33,
+    "name":"P s kalyan sasidhar",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science and Engineering), University of North Texas-Denton, USA",
+    "bio":"P s kalyan sasidhar is a Faculty at DA-IICT. Educational background: PhD (Computer Science and Engineering), University of North Texas-Denton, USA. Research interests include Meet Dr. Kalyan Sasidhar : Pioneering Mobile Computing and Network Sensing Mobile and Pervasive Computing which include Wireless Sensor Networks, Mo….",
+    "specialization_list":[
+      "meet dr. kalyan sasidhar : pioneering mobile computing and network sensing mobile and pervasive computing which include wireless sensor networks",
+      "mo…"
+    ],
+    "research_tags":[
+      "and",
+      "computing",
+      "dr.",
+      "include",
+      "kalyan",
+      "meet",
+      "mobile",
+      "mo…",
+      "network",
+      "networks",
+      "pervasive",
+      "pioneering",
+      "sasidhar",
+      "sensing",
+      "sensor",
+      "which",
+      "wireless"
+    ],
+    "email":"kalyan_sasidhar@dau.ac.in",
+    "phone":"07968261560",
+    "address":"# 2109, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"P s kalyan sasidhar Faculty P s kalyan sasidhar is a Faculty at DA-IICT. Educational background: PhD (Computer Science and Engineering), University of North Texas-Denton, USA. Research interests include Meet Dr. Kalyan Sasidhar : Pioneering Mobile Computing and Network Sensing Mobile and Pervasive Computing which include Wireless Sensor Networks, Mo…. meet dr. kalyan sasidhar : pioneering mobile computing and network sensing mobile and pervasive computing which include wireless sensor networks mo…"
+  },
+  {
+    "faculty_id":34,
+    "name":"Pankaj kumar",
+    "faculty_type":"Faculty",
+    "education":"PhD (RF & Microwave), NIT Patna",
+    "bio":"Pankaj kumar is a Faculty at DA-IICT. Educational background: PhD (RF & Microwave), NIT Patna. Research interests include Bio-Inspired Metasurface\/Metamaterial Devices, Terahertz Devices, Semiconductor Device Modeling and Simulation, Emerging Devices, JLT, OFET, TFET, FIN-FET, VLSI Design..",
+    "specialization_list":[
+      "bio-inspired metasurface\/metamaterial devices",
+      "terahertz devices",
+      "semiconductor device modeling and simulation",
+      "emerging devices",
+      "jlt",
+      "ofet",
+      "tfet",
+      "fin-fet",
+      "vlsi design."
+    ],
+    "research_tags":[
+      "and",
+      "bio-inspired",
+      "design.",
+      "device",
+      "devices",
+      "emerging",
+      "fin-fet",
+      "jlt",
+      "metasurface\/metamaterial",
+      "modeling",
+      "ofet",
+      "semiconductor",
+      "simulation",
+      "terahertz",
+      "tfet",
+      "vlsi"
+    ],
+    "email":"pankaj_kumar@dau.ac.in",
+    "phone":"07968261705",
+    "address":"# 3201, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Pankaj kumar Faculty Pankaj kumar is a Faculty at DA-IICT. Educational background: PhD (RF & Microwave), NIT Patna. Research interests include Bio-Inspired Metasurface\/Metamaterial Devices, Terahertz Devices, Semiconductor Device Modeling and Simulation, Emerging Devices, JLT, OFET, TFET, FIN-FET, VLSI Design.. bio-inspired metasurface\/metamaterial devices terahertz devices semiconductor device modeling and simulation emerging devices jlt ofet tfet fin-fet vlsi design."
+  },
+  {
+    "faculty_id":35,
+    "name":"Parul gupta",
+    "faculty_type":"Faculty",
+    "education":"PhD (Economics), IIT Delhi",
+    "bio":"Parul gupta is a Faculty at DA-IICT. Educational background: PhD (Economics), IIT Delhi. Research interests include Economic Development, Education Policy, Economics of Gender.",
+    "specialization_list":[
+      "economic development",
+      "education policy",
+      "economics of gender"
+    ],
+    "research_tags":[
+      "development",
+      "economic",
+      "economics",
+      "education",
+      "gender",
+      "policy"
+    ],
+    "email":"parul_gupta@dau.ac.in",
+    "phone":"07968261744",
+    "address":"# 4102, FB-4, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Parul gupta Faculty Parul gupta is a Faculty at DA-IICT. Educational background: PhD (Economics), IIT Delhi. Research interests include Economic Development, Education Policy, Economics of Gender. economic development education policy economics of gender"
+  },
+  {
+    "faculty_id":36,
+    "name":"Prasenjit majumder (on leave)",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), Jadavpur University",
+    "bio":"Prasenjit majumder (on leave) is a Faculty at DA-IICT. Educational background: PhD (Computer Science), Jadavpur University. Research interests include Natural Language Processing, Information Retrieval, Cognitive Science.",
+    "specialization_list":[
+      "natural language processing",
+      "information retrieval",
+      "cognitive science"
+    ],
+    "research_tags":[
+      "cognitive",
+      "information",
+      "language",
+      "natural",
+      "processing",
+      "retrieval",
+      "science"
+    ],
+    "email":"p_majumder@dau.ac.in,prasenjit.majumder@gmail.com",
+    "phone":"07968261605",
+    "address":"# 4209, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Prasenjit majumder (on leave) Faculty Prasenjit majumder (on leave) is a Faculty at DA-IICT. Educational background: PhD (Computer Science), Jadavpur University. Research interests include Natural Language Processing, Information Retrieval, Cognitive Science. natural language processing information retrieval cognitive science"
+  },
+  {
+    "faculty_id":37,
+    "name":"Pratim roy",
+    "faculty_type":"Faculty",
+    "education":"PhD (Physics),  IIT Kanpur",
+    "bio":"Pratim roy is a Faculty at DA-IICT. Educational background: PhD (Physics),  IIT Kanpur. Research interests include Theoretical Physics, ADS\/CFT Duality, Quantum Field Theory.",
+    "specialization_list":[
+      "theoretical physics",
+      "ads\/cft duality",
+      "quantum field theory"
+    ],
+    "research_tags":[
+      "ads\/cft",
+      "duality",
+      "field",
+      "physics",
+      "quantum",
+      "theoretical",
+      "theory"
+    ],
+    "email":"pratim_roy@dau.ac.in",
+    "phone":"07968261627",
+    "address":"# 4211, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Pratim roy Faculty Pratim roy is a Faculty at DA-IICT. Educational background: PhD (Physics),  IIT Kanpur. Research interests include Theoretical Physics, ADS\/CFT Duality, Quantum Field Theory. theoretical physics ads\/cft duality quantum field theory"
+  },
+  {
+    "faculty_id":38,
+    "name":"Pritam anand",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), South Asian University, New Delhi",
+    "bio":"Pritam anand is a Faculty at DA-IICT. Educational background: PhD (Computer Science), South Asian University, New Delhi. Research interests include Support Vector Machines, Loss Functions, Regression, Extreme Learning Machine, Quantile Regression.",
+    "specialization_list":[
+      "support vector machines",
+      "loss functions",
+      "regression",
+      "extreme learning machine",
+      "quantile regression"
+    ],
+    "research_tags":[
+      "extreme",
+      "functions",
+      "learning",
+      "loss",
+      "machine",
+      "machines",
+      "quantile",
+      "regression",
+      "support",
+      "vector"
+    ],
+    "email":"pritam_anand@dau.ac.in",
+    "phone":"07968261657",
+    "address":"# 3103, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Pritam anand Faculty Pritam anand is a Faculty at DA-IICT. Educational background: PhD (Computer Science), South Asian University, New Delhi. Research interests include Support Vector Machines, Loss Functions, Regression, Extreme Learning Machine, Quantile Regression. support vector machines loss functions regression extreme learning machine quantile regression"
+  },
+  {
+    "faculty_id":39,
+    "name":"Prosenjit kundu",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), National Institute of Technology, Durgapur",
+    "bio":"Prosenjit kundu is a Faculty at DA-IICT. Educational background: PhD (Mathematics), National Institute of Technology, Durgapur. Research interests include Physics and Mathematical Sciences, Applied Mathematics, Complex Networks, Dynamical Systems.",
+    "specialization_list":[
+      "physics and mathematical sciences",
+      "applied mathematics",
+      "complex networks",
+      "dynamical systems"
+    ],
+    "research_tags":[
+      "and",
+      "applied",
+      "complex",
+      "dynamical",
+      "mathematical",
+      "mathematics",
+      "networks",
+      "physics",
+      "sciences",
+      "systems"
+    ],
+    "email":"prosenjit_kundu@dau.ac.in,jitprosen.math@gmail.com",
+    "phone":"07968261559",
+    "address":"# 2211, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Prosenjit kundu Faculty Prosenjit kundu is a Faculty at DA-IICT. Educational background: PhD (Mathematics), National Institute of Technology, Durgapur. Research interests include Physics and Mathematical Sciences, Applied Mathematics, Complex Networks, Dynamical Systems. physics and mathematical sciences applied mathematics complex networks dynamical systems"
+  },
+  {
+    "faculty_id":40,
+    "name":"Puneet bhateja",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), Chennai Mathematical Institute",
+    "bio":"Puneet bhateja is a Faculty at DA-IICT. Educational background: PhD (Computer Science), Chennai Mathematical Institute. Research interests include Theoretical Computer Science.",
+    "specialization_list":[
+      "theoretical computer science"
+    ],
+    "research_tags":[
+      "computer",
+      "science",
+      "theoretical"
+    ],
+    "email":"puneet_bhateja@dau.ac.in",
+    "phone":"07968261647",
+    "address":"# 2101, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Puneet bhateja Faculty Puneet bhateja is a Faculty at DA-IICT. Educational background: PhD (Computer Science), Chennai Mathematical Institute. Research interests include Theoretical Computer Science. theoretical computer science"
+  },
+  {
+    "faculty_id":41,
+    "name":"Purbasha das",
+    "faculty_type":"Faculty",
+    "education":"PhD (History), Jawaharlal Nehru University, New Delhi",
+    "bio":"Purbasha das is a Faculty at DA-IICT. Educational background: PhD (History), Jawaharlal Nehru University, New Delhi. Research interests include History of Transport and Communication, Urban History, Legal and Social History.",
+    "specialization_list":[
+      "history of transport and communication",
+      "urban history",
+      "legal and social history"
+    ],
+    "research_tags":[
+      "and",
+      "communication",
+      "history",
+      "legal",
+      "social",
+      "transport",
+      "urban"
+    ],
+    "email":"purbasha_das@daiict.ac.in",
+    "phone":"07968261653",
+    "address":"# 4210, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Purbasha das Faculty Purbasha das is a Faculty at DA-IICT. Educational background: PhD (History), Jawaharlal Nehru University, New Delhi. Research interests include History of Transport and Communication, Urban History, Legal and Social History. history of transport and communication urban history legal and social history"
+  },
+  {
+    "faculty_id":42,
+    "name":"Pushpendra kumar",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), National Institute of Technology Puducherry",
+    "bio":"Pushpendra kumar is a Faculty at DA-IICT. Educational background: PhD (Mathematics), National Institute of Technology Puducherry. Research interests include Fractional Calculus, Mathematical Modeling, Numerical Analysis, and Neural Networks.",
+    "specialization_list":[
+      "fractional calculus",
+      "mathematical modeling",
+      "numerical analysis",
+      "and neural networks"
+    ],
+    "research_tags":[
+      "analysis",
+      "and",
+      "calculus",
+      "fractional",
+      "mathematical",
+      "modeling",
+      "networks",
+      "neural",
+      "numerical"
+    ],
+    "email":"pushpendra_kumar@dau.ac.in",
+    "phone":"07968261649",
+    "address":"# 4109, FB-4, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Pushpendra kumar Faculty Pushpendra kumar is a Faculty at DA-IICT. Educational background: PhD (Mathematics), National Institute of Technology Puducherry. Research interests include Fractional Calculus, Mathematical Modeling, Numerical Analysis, and Neural Networks. fractional calculus mathematical modeling numerical analysis and neural networks"
+  },
+  {
+    "faculty_id":43,
+    "name":"Rachit chhaya",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), IIT Gandhinagar",
+    "bio":"Rachit chhaya is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Gandhinagar. Research interests include Coresets for Machine Learning.",
+    "specialization_list":[
+      "coresets for machine learning"
+    ],
+    "research_tags":[
+      "coresets",
+      "for",
+      "learning",
+      "machine"
+    ],
+    "email":"rachit_chhaya@dau.ac.in",
+    "phone":"07968261708",
+    "address":"# 3109, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Rachit chhaya Faculty Rachit chhaya is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Gandhinagar. Research interests include Coresets for Machine Learning. coresets for machine learning"
+  },
+  {
+    "faculty_id":44,
+    "name":"Rahul muthu",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), Homi Bhabha National Institute, Mumbai",
+    "bio":"Rahul muthu is a Faculty at DA-IICT. Educational background: PhD (Mathematics), Homi Bhabha National Institute, Mumbai. Research interests include Graph Theory, Data Structures, Algorithms, Automata Theory.",
+    "specialization_list":[
+      "graph theory",
+      "data structures",
+      "algorithms",
+      "automata theory"
+    ],
+    "research_tags":[
+      "algorithms",
+      "automata",
+      "data",
+      "graph",
+      "structures",
+      "theory"
+    ],
+    "email":"rahul_muthu@dau.ac.in",
+    "phone":"079682615649586478239",
+    "address":"# 1202, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Rahul muthu Faculty Rahul muthu is a Faculty at DA-IICT. Educational background: PhD (Mathematics), Homi Bhabha National Institute, Mumbai. Research interests include Graph Theory, Data Structures, Algorithms, Automata Theory. graph theory data structures algorithms automata theory"
+  },
+  {
+    "faculty_id":45,
+    "name":"Rajib lochan das",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electronics & Electrical Communication Engineering), IIT Kharagpur",
+    "bio":"Rajib lochan das is a Faculty at DA-IICT. Educational background: PhD (Electronics & Electrical Communication Engineering), IIT Kharagpur. Research interests include Adaptive Signal Processing, Compressive Sensing, Machine Learning, Image Processing, Graph Signal Processing.",
+    "specialization_list":[
+      "adaptive signal processing",
+      "compressive sensing",
+      "machine learning",
+      "image processing",
+      "graph signal processing"
+    ],
+    "research_tags":[
+      "adaptive",
+      "compressive",
+      "graph",
+      "image",
+      "learning",
+      "machine",
+      "processing",
+      "sensing",
+      "signal"
+    ],
+    "email":"rajib_das@dau.ac.in",
+    "phone":"07968261597",
+    "address":"# 4202, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Rajib lochan das Faculty Rajib lochan das is a Faculty at DA-IICT. Educational background: PhD (Electronics & Electrical Communication Engineering), IIT Kharagpur. Research interests include Adaptive Signal Processing, Compressive Sensing, Machine Learning, Image Processing, Graph Signal Processing. adaptive signal processing compressive sensing machine learning image processing graph signal processing"
+  },
+  {
+    "faculty_id":46,
+    "name":"Ratna bharati bhamidipati",
+    "faculty_type":"Faculty",
+    "education":"PhD (Sociology), Dr B R Ambedkar University, Delhi",
+    "bio":"Ratna bharati bhamidipati is a Faculty at DA-IICT. Educational background: PhD (Sociology), Dr B R Ambedkar University, Delhi. Research interests include Diaspora , Transnationalism, Migrant Subjectivity.",
+    "specialization_list":[
+      "diaspora",
+      "transnationalism",
+      "migrant subjectivity"
+    ],
+    "research_tags":[
+      "diaspora",
+      "migrant",
+      "subjectivity",
+      "transnationalism"
+    ],
+    "email":"ratna_bharati@dau.ac.in",
+    "phone":"07968261589",
+    "address":"# 2202, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Ratna bharati bhamidipati Faculty Ratna bharati bhamidipati is a Faculty at DA-IICT. Educational background: PhD (Sociology), Dr B R Ambedkar University, Delhi. Research interests include Diaspora , Transnationalism, Migrant Subjectivity. diaspora transnationalism migrant subjectivity"
+  },
+  {
+    "faculty_id":47,
+    "name":"Rutu parekh",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical Engineering), Sherbrooke University, Canada",
+    "bio":"Rutu parekh is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Sherbrooke University, Canada. Research interests include High-Voltage ASIC Design for Space Applications, Nanoelectronics and Emerging Devices, Embedded Systems and IoT Applications, Long-Distance Wireless Communication Systems, Smart Agriculture and Environmental Monitoring, Memristor-based Neuromorphi….",
+    "specialization_list":[
+      "high-voltage asic design for space applications",
+      "nanoelectronics and emerging devices",
+      "embedded systems and iot applications",
+      "long-distance wireless communication systems",
+      "smart agriculture and environmental monitoring",
+      "memristor-based neuromorphi…"
+    ],
+    "research_tags":[
+      "agriculture",
+      "and",
+      "applications",
+      "asic",
+      "communication",
+      "design",
+      "devices",
+      "embedded",
+      "emerging",
+      "environmental",
+      "for",
+      "high-voltage",
+      "iot",
+      "long-distance",
+      "memristor-based",
+      "monitoring",
+      "nanoelectronics",
+      "neuromorphi…",
+      "smart",
+      "space",
+      "systems",
+      "wireless"
+    ],
+    "email":"rutu_parekh@dau.ac.in",
+    "phone":"07968261553",
+    "address":"# 2112, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Rutu parekh Faculty Rutu parekh is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Sherbrooke University, Canada. Research interests include High-Voltage ASIC Design for Space Applications, Nanoelectronics and Emerging Devices, Embedded Systems and IoT Applications, Long-Distance Wireless Communication Systems, Smart Agriculture and Environmental Monitoring, Memristor-based Neuromorphi…. high-voltage asic design for space applications nanoelectronics and emerging devices embedded systems and iot applications long-distance wireless communication systems smart agriculture and environmental monitoring memristor-based neuromorphi…"
+  },
+  {
+    "faculty_id":48,
+    "name":"Sandip modha",
+    "faculty_type":"Faculty",
+    "education":"PhD, DA-IICT Gandhinagar",
+    "bio":"Sandip modha is a Faculty at DA-IICT. Educational background: PhD, DA-IICT Gandhinagar. Research interests include Natural Language Processing (NLP), Information Retrieval (IR), Evaluation Methodologies, and Computational Approaches to Social Media Data..",
+    "specialization_list":[
+      "natural language processing (nlp)",
+      "information retrieval (ir)",
+      "evaluation methodologies",
+      "and computational approaches to social media data."
+    ],
+    "research_tags":[
+      "(ir)",
+      "(nlp)",
+      "and",
+      "approaches",
+      "computational",
+      "data.",
+      "evaluation",
+      "information",
+      "language",
+      "media",
+      "methodologies",
+      "natural",
+      "processing",
+      "retrieval",
+      "social"
+    ],
+    "email":"sandip_modha@dau.ac.in",
+    "phone":"07968261672",
+    "address":"# 2201, FB-2, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sandip modha Faculty Sandip modha is a Faculty at DA-IICT. Educational background: PhD, DA-IICT Gandhinagar. Research interests include Natural Language Processing (NLP), Information Retrieval (IR), Evaluation Methodologies, and Computational Approaches to Social Media Data.. natural language processing (nlp) information retrieval (ir) evaluation methodologies and computational approaches to social media data."
+  },
+  {
+    "faculty_id":49,
+    "name":"Sanjay srivastava",
+    "faculty_type":"Faculty",
+    "education":"PhD (Physics), University of California, Los Angeles, USA",
+    "bio":"Sanjay srivastava is a Faculty at DA-IICT. Educational background: PhD (Physics), University of California, Los Angeles, USA. Research interests include Internet of Things, Protocol Modelling and Analysis, Simulation.",
+    "specialization_list":[
+      "internet of things",
+      "protocol modelling and analysis",
+      "simulation"
+    ],
+    "research_tags":[
+      "analysis",
+      "and",
+      "internet",
+      "modelling",
+      "protocol",
+      "simulation",
+      "things"
+    ],
+    "email":"sanjay_srivastava@dau.ac.in",
+    "phone":"07968261547",
+    "address":"# 1205, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sanjay srivastava Faculty Sanjay srivastava is a Faculty at DA-IICT. Educational background: PhD (Physics), University of California, Los Angeles, USA. Research interests include Internet of Things, Protocol Modelling and Analysis, Simulation. internet of things protocol modelling and analysis simulation"
+  },
+  {
+    "faculty_id":50,
+    "name":"Satvik gupta",
+    "faculty_type":"Faculty",
+    "education":"PhD (English Literature), IIT Ropar",
+    "bio":"Satvik gupta is a Faculty at DA-IICT. Educational background: PhD (English Literature), IIT Ropar. Research interests include Weird Fiction, Horror Fiction, Speculative Fiction, World Literature, Existentialism, Absurdism.",
+    "specialization_list":[
+      "weird fiction",
+      "horror fiction",
+      "speculative fiction",
+      "world literature",
+      "existentialism",
+      "absurdism"
+    ],
+    "research_tags":[
+      "absurdism",
+      "existentialism",
+      "fiction",
+      "horror",
+      "literature",
+      "speculative",
+      "weird",
+      "world"
+    ],
+    "email":"satvik_gupta@dau.ac.in",
+    "phone":"07968261655",
+    "address":"# 4105, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Satvik gupta Faculty Satvik gupta is a Faculty at DA-IICT. Educational background: PhD (English Literature), IIT Ropar. Research interests include Weird Fiction, Horror Fiction, Speculative Fiction, World Literature, Existentialism, Absurdism. weird fiction horror fiction speculative fiction world literature existentialism absurdism"
+  },
+  {
+    "faculty_id":51,
+    "name":"Saurabh tiwari",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science & Engineering), IIITDM, Jabalpur",
+    "bio":"Saurabh tiwari is a Faculty at DA-IICT. Educational background: PhD (Computer Science & Engineering), IIITDM, Jabalpur. Research interests include Meet Prof. Saurabh Tiwari: The realm of Software Engineering and Innovation! Software Engineering (SE), Mining Software Repositories, Natural Langua….",
+    "specialization_list":[
+      "meet prof. saurabh tiwari: the realm of software engineering and innovation! software engineering (se)",
+      "mining software repositories",
+      "natural langua…"
+    ],
+    "research_tags":[
+      "(se)",
+      "and",
+      "engineering",
+      "innovation!",
+      "langua…",
+      "meet",
+      "mining",
+      "natural",
+      "prof.",
+      "realm",
+      "repositories",
+      "saurabh",
+      "software",
+      "the",
+      "tiwari:"
+    ],
+    "email":"saurabh_t@dau.ac.in",
+    "phone":"07968261618",
+    "address":"# 1102, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Saurabh tiwari Faculty Saurabh tiwari is a Faculty at DA-IICT. Educational background: PhD (Computer Science & Engineering), IIITDM, Jabalpur. Research interests include Meet Prof. Saurabh Tiwari: The realm of Software Engineering and Innovation! Software Engineering (SE), Mining Software Repositories, Natural Langua…. meet prof. saurabh tiwari: the realm of software engineering and innovation! software engineering (se) mining software repositories natural langua…"
+  },
+  {
+    "faculty_id":52,
+    "name":"Sayantan paul",
+    "faculty_type":"Faculty",
+    "education":"PhD (Statistics) - Thesis Submitted",
+    "bio":"Sayantan paul is a Faculty at DA-IICT. Educational background: PhD (Statistics) - Thesis Submitted. Research interests include High-dimensional Inference, Multiple Testing, Posterior Concentration, Variable Selection, Sparse Signal Recovery.",
+    "specialization_list":[
+      "high-dimensional inference",
+      "multiple testing",
+      "posterior concentration",
+      "variable selection",
+      "sparse signal recovery"
+    ],
+    "research_tags":[
+      "concentration",
+      "high-dimensional",
+      "inference",
+      "multiple",
+      "posterior",
+      "recovery",
+      "selection",
+      "signal",
+      "sparse",
+      "testing",
+      "variable"
+    ],
+    "email":"sayantan_paul@dau.ac.in",
+    "phone":"07968261752",
+    "address":"# 3202, FB-3, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sayantan paul Faculty Sayantan paul is a Faculty at DA-IICT. Educational background: PhD (Statistics) - Thesis Submitted. Research interests include High-dimensional Inference, Multiple Testing, Posterior Concentration, Variable Selection, Sparse Signal Recovery. high-dimensional inference multiple testing posterior concentration variable selection sparse signal recovery"
+  },
+  {
+    "faculty_id":53,
+    "name":"Shefali jha",
+    "faculty_type":"Faculty",
+    "education":"PhD (Anthropology), University of Chicago, USA",
+    "bio":"Shefali jha is a Faculty at DA-IICT. Educational background: PhD (Anthropology), University of Chicago, USA. Research interests include Political Anthropology, Cultural Studies, Feminist Theory, Film Studies, Literary and Visual Cultures in South Asia.",
+    "specialization_list":[
+      "political anthropology",
+      "cultural studies",
+      "feminist theory",
+      "film studies",
+      "literary and visual cultures in south asia"
+    ],
+    "research_tags":[
+      "and",
+      "anthropology",
+      "asia",
+      "cultural",
+      "cultures",
+      "feminist",
+      "film",
+      "literary",
+      "political",
+      "south",
+      "studies",
+      "theory",
+      "visual"
+    ],
+    "email":"shefali_jha@dau.ac.in",
+    "phone":"07968261709",
+    "address":"# 3112, FB-3 , DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Shefali jha Faculty Shefali jha is a Faculty at DA-IICT. Educational background: PhD (Anthropology), University of Chicago, USA. Research interests include Political Anthropology, Cultural Studies, Feminist Theory, Film Studies, Literary and Visual Cultures in South Asia. political anthropology cultural studies feminist theory film studies literary and visual cultures in south asia"
+  },
+  {
+    "faculty_id":54,
+    "name":"Shruti bhilare",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science and Engineering), IIT Indore",
+    "bio":"Shruti bhilare is a Faculty at DA-IICT. Educational background: PhD (Computer Science and Engineering), IIT Indore. Research interests include Biometrics, Pattern Recognition, Image Processing.",
+    "specialization_list":[
+      "biometrics",
+      "pattern recognition",
+      "image processing"
+    ],
+    "research_tags":[
+      "biometrics",
+      "image",
+      "pattern",
+      "processing",
+      "recognition"
+    ],
+    "email":"shruti_bhilare@dau.ac.in",
+    "phone":"07968261651",
+    "address":"# 4208, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Shruti bhilare Faculty Shruti bhilare is a Faculty at DA-IICT. Educational background: PhD (Computer Science and Engineering), IIT Indore. Research interests include Biometrics, Pattern Recognition, Image Processing. biometrics pattern recognition image processing"
+  },
+  {
+    "faculty_id":55,
+    "name":"Sourish dasgupta",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), University of Missouri - Kansas City, USA",
+    "bio":"Sourish dasgupta is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Missouri - Kansas City, USA. Research interests include Natural Language Processing, Knowledge Graphs, Analysis of Large Language Models.",
+    "specialization_list":[
+      "natural language processing",
+      "knowledge graphs",
+      "analysis of large language models"
+    ],
+    "research_tags":[
+      "analysis",
+      "graphs",
+      "knowledge",
+      "language",
+      "large",
+      "models",
+      "natural",
+      "processing"
+    ],
+    "email":"sourish_dasgupta@dau.ac.in",
+    "phone":"079682616249624106109",
+    "address":"# 4102, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sourish dasgupta Faculty Sourish dasgupta is a Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Missouri - Kansas City, USA. Research interests include Natural Language Processing, Knowledge Graphs, Analysis of Large Language Models. natural language processing knowledge graphs analysis of large language models"
+  },
+  {
+    "faculty_id":56,
+    "name":"Sreeja rajendran",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical and Electronics Engineering), Birla Institute of Technology and Science, Pilani, Dubai Campus",
+    "bio":"Sreeja rajendran is a Faculty at DA-IICT. Educational background: PhD (Electrical and Electronics Engineering), Birla Institute of Technology and Science, Pilani, Dubai Campus. Research interests include VLSI, Embedded Systems and MEMS, Hardware Security, VLSI Test.",
+    "specialization_list":[
+      "vlsi",
+      "embedded systems and mems",
+      "hardware security",
+      "vlsi test"
+    ],
+    "research_tags":[
+      "and",
+      "embedded",
+      "hardware",
+      "mems",
+      "security",
+      "systems",
+      "test",
+      "vlsi"
+    ],
+    "email":"sreeja_rajendran@dau.ac.in",
+    "phone":"07968261707",
+    "address":"#3108, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sreeja rajendran Faculty Sreeja rajendran is a Faculty at DA-IICT. Educational background: PhD (Electrical and Electronics Engineering), Birla Institute of Technology and Science, Pilani, Dubai Campus. Research interests include VLSI, Embedded Systems and MEMS, Hardware Security, VLSI Test. vlsi embedded systems and mems hardware security vlsi test"
+  },
+  {
+    "faculty_id":57,
+    "name":"Srimanta mandal",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computing and Electrical Engineering), IIT Mandi",
+    "bio":"Srimanta mandal is a Faculty at DA-IICT. Educational background: PhD (Computing and Electrical Engineering), IIT Mandi. Research interests include Image Processing, Computer Vision, Machine Learning.",
+    "specialization_list":[
+      "image processing",
+      "computer vision",
+      "machine learning"
+    ],
+    "research_tags":[
+      "computer",
+      "image",
+      "learning",
+      "machine",
+      "processing",
+      "vision"
+    ],
+    "email":"srimanta_mandal@dau.ac.in",
+    "phone":"07968261621",
+    "address":"# 4203, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Srimanta mandal Faculty Srimanta mandal is a Faculty at DA-IICT. Educational background: PhD (Computing and Electrical Engineering), IIT Mandi. Research interests include Image Processing, Computer Vision, Machine Learning. image processing computer vision machine learning"
+  },
+  {
+    "faculty_id":58,
+    "name":"Subhasish basak",
+    "faculty_type":"Faculty",
+    "education":"PhD (Statistics), Indian Statistical Institute, Kolkata",
+    "bio":"Subhasish basak is a Faculty at DA-IICT. Educational background: PhD (Statistics), Indian Statistical Institute, Kolkata. Research interests include Image Processing, Statistical Learning, Nonparametric Methods, Decision trees, Bayesian techniques, Quality monitoring.",
+    "specialization_list":[
+      "image processing",
+      "statistical learning",
+      "nonparametric methods",
+      "decision trees",
+      "bayesian techniques",
+      "quality monitoring"
+    ],
+    "research_tags":[
+      "bayesian",
+      "decision",
+      "image",
+      "learning",
+      "methods",
+      "monitoring",
+      "nonparametric",
+      "processing",
+      "quality",
+      "statistical",
+      "techniques",
+      "trees"
+    ],
+    "email":"subhasish_basak@dau.ac.in",
+    "phone":"07968261671",
+    "address":"# 3206, FB-3, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Subhasish basak Faculty Subhasish basak is a Faculty at DA-IICT. Educational background: PhD (Statistics), Indian Statistical Institute, Kolkata. Research interests include Image Processing, Statistical Learning, Nonparametric Methods, Decision trees, Bayesian techniques, Quality monitoring. image processing statistical learning nonparametric methods decision trees bayesian techniques quality monitoring"
+  },
+  {
+    "faculty_id":59,
+    "name":"Sudip bera",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), Visva-Bharati University, Shantiniketan, West Bengal",
+    "bio":"Sudip bera is a Faculty at DA-IICT. Educational background: PhD (Mathematics), Visva-Bharati University, Shantiniketan, West Bengal. Research interests include Algebraic graph theory, Algebraic combinatorics.",
+    "specialization_list":[
+      "algebraic graph theory",
+      "algebraic combinatorics"
+    ],
+    "research_tags":[
+      "algebraic",
+      "combinatorics",
+      "graph",
+      "theory"
+    ],
+    "email":"sudip_bera@dau.ac.in",
+    "phone":"07968261632",
+    "address":"# 4201, FB-4, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sudip bera Faculty Sudip bera is a Faculty at DA-IICT. Educational background: PhD (Mathematics), Visva-Bharati University, Shantiniketan, West Bengal. Research interests include Algebraic graph theory, Algebraic combinatorics. algebraic graph theory algebraic combinatorics"
+  },
+  {
+    "faculty_id":60,
+    "name":"Sujay kadam",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical Engineering), IIT Gandhinagar",
+    "bio":"Sujay kadam is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Gandhinagar. Research interests include Instrumentation, Systems and Control Theory, Human-Motor Learning, Robotics.",
+    "specialization_list":[
+      "instrumentation",
+      "systems and control theory",
+      "human-motor learning",
+      "robotics"
+    ],
+    "research_tags":[
+      "and",
+      "control",
+      "human-motor",
+      "instrumentation",
+      "learning",
+      "robotics",
+      "systems",
+      "theory"
+    ],
+    "email":"sujay_kadam@dau.ac.in",
+    "phone":"07968261584",
+    "address":"# 1210, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sujay kadam Faculty Sujay kadam is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Gandhinagar. Research interests include Instrumentation, Systems and Control Theory, Human-Motor Learning, Robotics. instrumentation systems and control theory human-motor learning robotics"
+  },
+  {
+    "faculty_id":61,
+    "name":"Sunitha v",
+    "faculty_type":"Faculty",
+    "education":"PhD (Mathematics), IIT Madras",
+    "bio":"Sunitha v is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Madras. Research interests include Theory, Algorithms (Parallel, Distributed, Dynamic), Applications of Graphs.",
+    "specialization_list":[
+      "theory",
+      "algorithms (parallel",
+      "distributed",
+      "dynamic)",
+      "applications of graphs"
+    ],
+    "research_tags":[
+      "(parallel",
+      "algorithms",
+      "applications",
+      "distributed",
+      "dynamic)",
+      "graphs",
+      "theory"
+    ],
+    "email":"v_suni@dau.ac.in",
+    "phone":"07968261563",
+    "address":"# 1212, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Sunitha v Faculty Sunitha v is a Faculty at DA-IICT. Educational background: PhD (Mathematics), IIT Madras. Research interests include Theory, Algorithms (Parallel, Distributed, Dynamic), Applications of Graphs. theory algorithms (parallel distributed dynamic) applications of graphs"
+  },
+  {
+    "faculty_id":62,
+    "name":"Supantha pandit",
+    "faculty_type":"Faculty",
+    "education":"PhD (Computer Science), IIT Ropar",
+    "bio":"Supantha pandit is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Ropar. Research interests include Theoretical Computer Science Mainly focused on: Computational Geometry Approximation Algorithms Distributed Network and Agent Algorithms Graph Algorithms.",
+    "specialization_list":[
+      "theoretical computer science mainly focused on: computational geometry approximation algorithms distributed network and agent algorithms graph algorithms"
+    ],
+    "research_tags":[
+      "agent",
+      "algorithms",
+      "and",
+      "approximation",
+      "computational",
+      "computer",
+      "distributed",
+      "focused",
+      "geometry",
+      "graph",
+      "mainly",
+      "network",
+      "on:",
+      "science",
+      "theoretical"
+    ],
+    "email":"supantha_pandit@dau.ac.in",
+    "phone":"07968261546",
+    "address":"# 2205, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Supantha pandit Faculty Supantha pandit is a Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Ropar. Research interests include Theoretical Computer Science Mainly focused on: Computational Geometry Approximation Algorithms Distributed Network and Agent Algorithms Graph Algorithms. theoretical computer science mainly focused on: computational geometry approximation algorithms distributed network and agent algorithms graph algorithms"
+  },
+  {
+    "faculty_id":63,
+    "name":"Tapas kumar maiti",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electronics & Telecommunication Engineering), Jadavpur University, Kolkata",
+    "bio":"Tapas kumar maiti is a Faculty at DA-IICT. Educational background: PhD (Electronics & Telecommunication Engineering), Jadavpur University, Kolkata. Research interests include Meet Dr. Tapas Kumar Maiti: Pioneering Research in Robotics and Cybernetics Intelligent Devices and  Systems Robotics AI-Chip Cyber….",
+    "specialization_list":[
+      "meet dr. tapas kumar maiti: pioneering research in robotics and cybernetics intelligent devices and  systems robotics ai-chip cyber…"
+    ],
+    "research_tags":[
+      "ai-chip",
+      "and",
+      "cybernetics",
+      "cyber…",
+      "devices",
+      "dr.",
+      "intelligent",
+      "kumar",
+      "maiti:",
+      "meet",
+      "pioneering",
+      "research",
+      "robotics",
+      "systems",
+      "tapas"
+    ],
+    "email":"tapas_kumar@dau.ac.in",
+    "phone":"07968261637",
+    "address":"# 2206, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Tapas kumar maiti Faculty Tapas kumar maiti is a Faculty at DA-IICT. Educational background: PhD (Electronics & Telecommunication Engineering), Jadavpur University, Kolkata. Research interests include Meet Dr. Tapas Kumar Maiti: Pioneering Research in Robotics and Cybernetics Intelligent Devices and  Systems Robotics AI-Chip Cyber…. meet dr. tapas kumar maiti: pioneering research in robotics and cybernetics intelligent devices and  systems robotics ai-chip cyber…"
+  },
+  {
+    "faculty_id":64,
+    "name":"Tathagata bandyopadhyay",
+    "faculty_type":"Faculty",
+    "education":"PhD (Statistics), University of Calcutta, Kolkata",
+    "bio":"Tathagata bandyopadhyay is a Faculty at DA-IICT. Educational background: PhD (Statistics), University of Calcutta, Kolkata. Research interests include Statistical Inference, Survey Sampling, Discrete Data Modeling and Analysis, Applications of Statistical Methodologies in Various Fields.",
+    "specialization_list":[
+      "statistical inference",
+      "survey sampling",
+      "discrete data modeling and analysis",
+      "applications of statistical methodologies in various fields"
+    ],
+    "research_tags":[
+      "analysis",
+      "and",
+      "applications",
+      "data",
+      "discrete",
+      "fields",
+      "inference",
+      "methodologies",
+      "modeling",
+      "sampling",
+      "statistical",
+      "survey",
+      "various"
+    ],
+    "email":"tathagata_b@dau.ac.in",
+    "phone":"07968261572",
+    "address":"Not Available",
+    "combined_text":"Tathagata bandyopadhyay Faculty Tathagata bandyopadhyay is a Faculty at DA-IICT. Educational background: PhD (Statistics), University of Calcutta, Kolkata. Research interests include Statistical Inference, Survey Sampling, Discrete Data Modeling and Analysis, Applications of Statistical Methodologies in Various Fields. statistical inference survey sampling discrete data modeling and analysis applications of statistical methodologies in various fields"
+  },
+  {
+    "faculty_id":65,
+    "name":"Vinay palaparthy",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical Engineering), IIT Bombay",
+    "bio":"Vinay palaparthy is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Bombay. Research interests include Micro-Electro-Mechanical Systems (MEMS), Physics of Sensors, 2D materials, Memristor, Self-healing System Design, Embedded System Design, IoT, AI\/ML.",
+    "specialization_list":[
+      "micro-electro-mechanical systems (mems)",
+      "physics of sensors",
+      "2d materials",
+      "memristor",
+      "self-healing system design",
+      "embedded system design",
+      "iot",
+      "ai\/ml"
+    ],
+    "research_tags":[
+      "(mems)",
+      "ai\/ml",
+      "design",
+      "embedded",
+      "iot",
+      "materials",
+      "memristor",
+      "micro-electro-mechanical",
+      "physics",
+      "self-healing",
+      "sensors",
+      "system",
+      "systems"
+    ],
+    "email":"vinay_shrinivas@dau.ac.in",
+    "phone":"07968261677",
+    "address":"# 1208, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Vinay palaparthy Faculty Vinay palaparthy is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), IIT Bombay. Research interests include Micro-Electro-Mechanical Systems (MEMS), Physics of Sensors, 2D materials, Memristor, Self-healing System Design, Embedded System Design, IoT, AI\/ML. micro-electro-mechanical systems (mems) physics of sensors 2d materials memristor self-healing system design embedded system design iot ai\/ml"
+  },
+  {
+    "faculty_id":66,
+    "name":"Yash agrawal",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electronics & Communication), NIT Hamirpur",
+    "bio":"Yash agrawal is a Faculty at DA-IICT. Educational background: PhD (Electronics & Communication), NIT Hamirpur. Research interests include VLSI, Nanotechnology, Numerical Method Techniques--FDTD, Design Techniques and Modelling Schemes of High-speed on-chip VLSI Interconnects, Modeling and Simulation Schemes, Advanced Devices and Their Modeling, Analysis.",
+    "specialization_list":[
+      "vlsi",
+      "nanotechnology",
+      "numerical method techniques--fdtd",
+      "design techniques and modelling schemes of high-speed on-chip vlsi interconnects",
+      "modeling and simulation schemes",
+      "advanced devices and their modeling",
+      "analysis"
+    ],
+    "research_tags":[
+      "advanced",
+      "analysis",
+      "and",
+      "design",
+      "devices",
+      "high-speed",
+      "interconnects",
+      "method",
+      "modeling",
+      "modelling",
+      "nanotechnology",
+      "numerical",
+      "on-chip",
+      "schemes",
+      "simulation",
+      "techniques",
+      "techniques--fdtd",
+      "their",
+      "vlsi"
+    ],
+    "email":"yash_agrawal@dau.ac.in,mr.yashagrawal@gmail.com",
+    "phone":"079682616299882114669",
+    "address":"# 1101, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Yash agrawal Faculty Yash agrawal is a Faculty at DA-IICT. Educational background: PhD (Electronics & Communication), NIT Hamirpur. Research interests include VLSI, Nanotechnology, Numerical Method Techniques--FDTD, Design Techniques and Modelling Schemes of High-speed on-chip VLSI Interconnects, Modeling and Simulation Schemes, Advanced Devices and Their Modeling, Analysis. vlsi nanotechnology numerical method techniques--fdtd design techniques and modelling schemes of high-speed on-chip vlsi interconnects modeling and simulation schemes advanced devices and their modeling analysis"
+  },
+  {
+    "faculty_id":67,
+    "name":"Yash vasavada",
+    "faculty_type":"Faculty",
+    "education":"PhD (Electrical Engineering), Virginia Polytechnic Institute and State University, USA",
+    "bio":"Yash vasavada is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Virginia Polytechnic Institute and State University, USA. Research interests include Communication, Signal Processing, Machine Learning Meet Prof. Yash Vasavada: A Passionate Researcher in Wireless Communications and Signal Processing ….",
+    "specialization_list":[
+      "communication",
+      "signal processing",
+      "machine learning meet prof. yash vasavada: a passionate researcher in wireless communications and signal processing …"
+    ],
+    "research_tags":[
+      "and",
+      "communication",
+      "communications",
+      "learning",
+      "machine",
+      "meet",
+      "passionate",
+      "processing",
+      "prof.",
+      "researcher",
+      "signal",
+      "vasavada:",
+      "wireless",
+      "yash"
+    ],
+    "email":"yash_vasavada@dau.ac.in",
+    "phone":"07968261634",
+    "address":"# 1224, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Yash vasavada Faculty Yash vasavada is a Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Virginia Polytechnic Institute and State University, USA. Research interests include Communication, Signal Processing, Machine Learning Meet Prof. Yash Vasavada: A Passionate Researcher in Wireless Communications and Signal Processing …. communication signal processing machine learning meet prof. yash vasavada: a passionate researcher in wireless communications and signal processing …"
+  },
+  {
+    "faculty_id":68,
+    "name":"Abhijit mukherjee",
+    "faculty_type":"Adjunct Faculty",
+    "education":"MBA in Systems from Vinayaka Mission University",
+    "bio":"Abhijit mukherjee is a Adjunct Faculty at DA-IICT. Educational background: MBA in Systems from Vinayaka Mission University. Research interests include Enterprise Computing and SAP Systems (IS-U, S\/4 HANA), Data Privacy and Compliance (DPDP Act 2023), IT Strategy, Governance, and Data Analytics.",
+    "specialization_list":[
+      "enterprise computing and sap systems (is-u",
+      "s\/4 hana)",
+      "data privacy and compliance (dpdp act 2023)",
+      "it strategy",
+      "governance",
+      "and data analytics"
+    ],
+    "research_tags":[
+      "(dpdp",
+      "(is-u",
+      "2023)",
+      "act",
+      "analytics",
+      "and",
+      "compliance",
+      "computing",
+      "data",
+      "enterprise",
+      "governance",
+      "hana)",
+      "privacy",
+      "s\/4",
+      "sap",
+      "strategy",
+      "systems"
+    ],
+    "email":"abhijit_mukherjee@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Abhijit mukherjee Adjunct Faculty Abhijit mukherjee is a Adjunct Faculty at DA-IICT. Educational background: MBA in Systems from Vinayaka Mission University. Research interests include Enterprise Computing and SAP Systems (IS-U, S\/4 HANA), Data Privacy and Compliance (DPDP Act 2023), IT Strategy, Governance, and Data Analytics. enterprise computing and sap systems (is-u s\/4 hana) data privacy and compliance (dpdp act 2023) it strategy governance and data analytics"
+  },
+  {
+    "faculty_id":69,
+    "name":"Aditi nath sarkar",
+    "faculty_type":"Adjunct Faculty",
+    "education":"MA (South Asian Languages and Civilizations), University of Chicago, USA",
+    "bio":"Aditi nath sarkar is a Adjunct Faculty at DA-IICT. Educational background: MA (South Asian Languages and Civilizations), University of Chicago, USA. Research interests include Literature, Religious, Cultural History; South Asian Civilization Studies.",
+    "specialization_list":[
+      "literature",
+      "religious",
+      "cultural history; south asian civilization studies"
+    ],
+    "research_tags":[
+      "asian",
+      "civilization",
+      "cultural",
+      "history;",
+      "literature",
+      "religious",
+      "south",
+      "studies"
+    ],
+    "email":"aditinath_sarkar@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Aditi nath sarkar Adjunct Faculty Aditi nath sarkar is a Adjunct Faculty at DA-IICT. Educational background: MA (South Asian Languages and Civilizations), University of Chicago, USA. Research interests include Literature, Religious, Cultural History; South Asian Civilization Studies. literature religious cultural history; south asian civilization studies"
+  },
+  {
+    "faculty_id":70,
+    "name":"Ajeet kumar singh",
+    "faculty_type":"Adjunct Faculty",
+    "education":"MS by Research in Computer Science and Engineering",
+    "bio":"Ajeet kumar singh is a Adjunct Faculty at DA-IICT. Educational background: MS by Research in Computer Science and Engineering. Research interests include Computer Vision, Natural Language Processing, Adversarial Machine Learning.",
+    "specialization_list":[
+      "computer vision",
+      "natural language processing",
+      "adversarial machine learning"
+    ],
+    "research_tags":[
+      "adversarial",
+      "computer",
+      "language",
+      "learning",
+      "machine",
+      "natural",
+      "processing",
+      "vision"
+    ],
+    "email":"ajeetkumar_singh@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Ajeet kumar singh Adjunct Faculty Ajeet kumar singh is a Adjunct Faculty at DA-IICT. Educational background: MS by Research in Computer Science and Engineering. Research interests include Computer Vision, Natural Language Processing, Adversarial Machine Learning. computer vision natural language processing adversarial machine learning"
+  },
+  {
+    "faculty_id":71,
+    "name":"Amishal modi",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (English), Gujarat University",
+    "bio":"Amishal modi is a Adjunct Faculty at DA-IICT. Educational background: PhD (English), Gujarat University. Research interests include Indian Literature, The English Novel, Sexuality Studies, 19th Century Literature.",
+    "specialization_list":[
+      "indian literature",
+      "the english novel",
+      "sexuality studies",
+      "19th century literature"
+    ],
+    "research_tags":[
+      "19th",
+      "century",
+      "english",
+      "indian",
+      "literature",
+      "novel",
+      "sexuality",
+      "studies",
+      "the"
+    ],
+    "email":"amishal_modi@dau.ac.in",
+    "phone":"07968261594",
+    "address":"Not Available",
+    "combined_text":"Amishal modi Adjunct Faculty Amishal modi is a Adjunct Faculty at DA-IICT. Educational background: PhD (English), Gujarat University. Research interests include Indian Literature, The English Novel, Sexuality Studies, 19th Century Literature. indian literature the english novel sexuality studies 19th century literature"
+  },
+  {
+    "faculty_id":72,
+    "name":"Anjan ghosh",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Electrical Engineering), Carnegie Mellon University, Pittsburgh, Pennsylvania",
+    "bio":"Anjan ghosh is a Adjunct Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Carnegie Mellon University, Pittsburgh, Pennsylvania. Research interests include Optical Communication - Fiber Optic and Free Space, Photonic Devices and Subsystems, Sensors, Image and Signal Processing, Nonlinear Systems and Chaos, System Dynamics Modelling of Education.",
+    "specialization_list":[
+      "optical communication - fiber optic and free space",
+      "photonic devices and subsystems",
+      "sensors",
+      "image and signal processing",
+      "nonlinear systems and chaos",
+      "system dynamics modelling of education"
+    ],
+    "research_tags":[
+      "and",
+      "chaos",
+      "communication",
+      "devices",
+      "dynamics",
+      "education",
+      "fiber",
+      "free",
+      "image",
+      "modelling",
+      "nonlinear",
+      "optic",
+      "optical",
+      "photonic",
+      "processing",
+      "sensors",
+      "signal",
+      "space",
+      "subsystems",
+      "system",
+      "systems"
+    ],
+    "email":"anjan_ghosh@dau.ac.in",
+    "phone":"07968261645",
+    "address":"# 1111, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Anjan ghosh Adjunct Faculty Anjan ghosh is a Adjunct Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Carnegie Mellon University, Pittsburgh, Pennsylvania. Research interests include Optical Communication - Fiber Optic and Free Space, Photonic Devices and Subsystems, Sensors, Image and Signal Processing, Nonlinear Systems and Chaos, System Dynamics Modelling of Education. optical communication - fiber optic and free space photonic devices and subsystems sensors image and signal processing nonlinear systems and chaos system dynamics modelling of education"
+  },
+  {
+    "faculty_id":73,
+    "name":"Binay bhushan chakrabarti",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Economics), Jadavpur University Calcutta",
+    "bio":"Binay bhushan chakrabarti is a Adjunct Faculty at DA-IICT. Educational background: PhD (Economics), Jadavpur University Calcutta. Research interests include Finance.",
+    "specialization_list":[
+      "finance"
+    ],
+    "research_tags":[
+      "finance"
+    ],
+    "email":"binaybhushan_chakrabarti@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Binay bhushan chakrabarti Adjunct Faculty Binay bhushan chakrabarti is a Adjunct Faculty at DA-IICT. Educational background: PhD (Economics), Jadavpur University Calcutta. Research interests include Finance. finance"
+  },
+  {
+    "faculty_id":74,
+    "name":"Deepak ghodgaonkar",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Electrical Engineering), University of Utah, USA",
+    "bio":"Deepak ghodgaonkar is a Adjunct Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), University of Utah, USA. Research interests include RF and Microwave Engineering, Microwave Nondestructive Testing of Composite Materials, Biomedical Applications of Microwaves, Electromagnetic Imaging of Complex Dielectric Bodies, Microwave Measurements and Characterization of Nonlinear Dielectric….",
+    "specialization_list":[
+      "rf and microwave engineering",
+      "microwave nondestructive testing of composite materials",
+      "biomedical applications of microwaves",
+      "electromagnetic imaging of complex dielectric bodies",
+      "microwave measurements and characterization of nonlinear dielectric…"
+    ],
+    "research_tags":[
+      "and",
+      "applications",
+      "biomedical",
+      "bodies",
+      "characterization",
+      "complex",
+      "composite",
+      "dielectric",
+      "dielectric…",
+      "electromagnetic",
+      "engineering",
+      "imaging",
+      "materials",
+      "measurements",
+      "microwave",
+      "microwaves",
+      "nondestructive",
+      "nonlinear",
+      "testing"
+    ],
+    "email":"deepak_ghodgaonkar@dau.ac.in",
+    "phone":"07968261623",
+    "address":"# 1103, FB-1, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Deepak ghodgaonkar Adjunct Faculty Deepak ghodgaonkar is a Adjunct Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), University of Utah, USA. Research interests include RF and Microwave Engineering, Microwave Nondestructive Testing of Composite Materials, Biomedical Applications of Microwaves, Electromagnetic Imaging of Complex Dielectric Bodies, Microwave Measurements and Characterization of Nonlinear Dielectric…. rf and microwave engineering microwave nondestructive testing of composite materials biomedical applications of microwaves electromagnetic imaging of complex dielectric bodies microwave measurements and characterization of nonlinear dielectric…"
+  },
+  {
+    "faculty_id":75,
+    "name":"Dhaval joshi",
+    "faculty_type":"Adjunct Faculty",
+    "education":"Masters in Design (PGDPD): National Institute of Design, Gandhinagar",
+    "bio":"Dhaval joshi is a Adjunct Faculty at DA-IICT. Educational background: Masters in Design (PGDPD): National Institute of Design, Gandhinagar. Research interests include Design Research, Artificial Intelligence, Gaming, Customer engagement.",
+    "specialization_list":[
+      "design research",
+      "artificial intelligence",
+      "gaming",
+      "customer engagement"
+    ],
+    "research_tags":[
+      "artificial",
+      "customer",
+      "design",
+      "engagement",
+      "gaming",
+      "intelligence",
+      "research"
+    ],
+    "email":"dhaval_joshi@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Dhaval joshi Adjunct Faculty Dhaval joshi is a Adjunct Faculty at DA-IICT. Educational background: Masters in Design (PGDPD): National Institute of Design, Gandhinagar. Research interests include Design Research, Artificial Intelligence, Gaming, Customer engagement. design research artificial intelligence gaming customer engagement"
+  },
+  {
+    "faculty_id":76,
+    "name":"Dipankar nagchoudhuri",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Electrical Engineering), Michigan State University, USA",
+    "bio":"Dipankar nagchoudhuri is a Adjunct Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Michigan State University, USA. Research interests include VLSI Design, CMOS Circuits and Technology, Biomedical Signal Processing Chip Design.",
+    "specialization_list":[
+      "vlsi design",
+      "cmos circuits and technology",
+      "biomedical signal processing chip design"
+    ],
+    "research_tags":[
+      "and",
+      "biomedical",
+      "chip",
+      "circuits",
+      "cmos",
+      "design",
+      "processing",
+      "signal",
+      "technology",
+      "vlsi"
+    ],
+    "email":"dnc@dau.ac.in",
+    "phone":"07968261654",
+    "address":"Not Available",
+    "combined_text":"Dipankar nagchoudhuri Adjunct Faculty Dipankar nagchoudhuri is a Adjunct Faculty at DA-IICT. Educational background: PhD (Electrical Engineering), Michigan State University, USA. Research interests include VLSI Design, CMOS Circuits and Technology, Biomedical Signal Processing Chip Design. vlsi design cmos circuits and technology biomedical signal processing chip design"
+  },
+  {
+    "faculty_id":77,
+    "name":"Gangeya mukherji",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (The Vision of India in Tagore and Vivekananda), University of Allahabad",
+    "bio":"Gangeya mukherji is a Adjunct Faculty at DA-IICT. Educational background: PhD (The Vision of India in Tagore and Vivekananda), University of Allahabad. Research interests include Intellectual history, 19th century India, Post-colonialism, Vivekananda, Tagore, Gandhi, Mahabharata..",
+    "specialization_list":[
+      "intellectual history",
+      "19th century india",
+      "post-colonialism",
+      "vivekananda",
+      "tagore",
+      "gandhi",
+      "mahabharata."
+    ],
+    "research_tags":[
+      "19th",
+      "century",
+      "gandhi",
+      "history",
+      "india",
+      "intellectual",
+      "mahabharata.",
+      "post-colonialism",
+      "tagore",
+      "vivekananda"
+    ],
+    "email":"gangeya_mukherji@dau.ac.in",
+    "phone":"07968261683",
+    "address":"Not Available",
+    "combined_text":"Gangeya mukherji Adjunct Faculty Gangeya mukherji is a Adjunct Faculty at DA-IICT. Educational background: PhD (The Vision of India in Tagore and Vivekananda), University of Allahabad. Research interests include Intellectual history, 19th century India, Post-colonialism, Vivekananda, Tagore, Gandhi, Mahabharata.. intellectual history 19th century india post-colonialism vivekananda tagore gandhi mahabharata."
+  },
+  {
+    "faculty_id":78,
+    "name":"Jayprakash lalchandani",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Computer Science), IIT Kharagpur",
+    "bio":"Jayprakash lalchandani is a Adjunct Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Kharagpur. Research interests include Software Engineering.",
+    "specialization_list":[
+      "software engineering"
+    ],
+    "research_tags":[
+      "engineering",
+      "software"
+    ],
+    "email":"jayprakash_lalchandani@dau.ac.in",
+    "phone":"07968261610",
+    "address":"Not Available",
+    "combined_text":"Jayprakash lalchandani Adjunct Faculty Jayprakash lalchandani is a Adjunct Faculty at DA-IICT. Educational background: PhD (Computer Science), IIT Kharagpur. Research interests include Software Engineering. software engineering"
+  },
+  {
+    "faculty_id":79,
+    "name":"K narayana chandran",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD, Indian Institute of Technology Bombay",
+    "bio":"K narayana chandran is a Adjunct Faculty at DA-IICT. Educational background: PhD, Indian Institute of Technology Bombay. Research interests include Major Areas of Specialization: English Poetry and Theory; English Pedagogy and Politics of the discipline; Indian and western narrative traditions Minor Specialization: Translation; Allusion, intertextuality and interge….",
+    "specialization_list":[
+      "major areas of specialization: english poetry and theory; english pedagogy and politics of the discipline; indian and western narrative traditions minor specialization: translation; allusion",
+      "intertextuality and interge…"
+    ],
+    "research_tags":[
+      "allusion",
+      "and",
+      "areas",
+      "discipline;",
+      "english",
+      "indian",
+      "interge…",
+      "intertextuality",
+      "major",
+      "minor",
+      "narrative",
+      "pedagogy",
+      "poetry",
+      "politics",
+      "specialization:",
+      "the",
+      "theory;",
+      "traditions",
+      "translation;",
+      "western"
+    ],
+    "email":"knarayana_chandran@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"K narayana chandran Adjunct Faculty K narayana chandran is a Adjunct Faculty at DA-IICT. Educational background: PhD, Indian Institute of Technology Bombay. Research interests include Major Areas of Specialization: English Poetry and Theory; English Pedagogy and Politics of the discipline; Indian and western narrative traditions Minor Specialization: Translation; Allusion, intertextuality and interge…. major areas of specialization: english poetry and theory; english pedagogy and politics of the discipline; indian and western narrative traditions minor specialization: translation; allusion intertextuality and interge…"
+  },
+  {
+    "faculty_id":80,
+    "name":"Kalgi gandhi",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD - Thesis Submitted, DA-IICT Gandhinagar",
+    "bio":"Kalgi gandhi is a Adjunct Faculty at DA-IICT. Educational background: PhD - Thesis Submitted, DA-IICT Gandhinagar. Research interests include Database Management, Distributed Database Management, Edge Computing.",
+    "specialization_list":[
+      "database management",
+      "distributed database management",
+      "edge computing"
+    ],
+    "research_tags":[
+      "computing",
+      "database",
+      "distributed",
+      "edge",
+      "management"
+    ],
+    "email":"kalgi_gandhi@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Kalgi gandhi Adjunct Faculty Kalgi gandhi is a Adjunct Faculty at DA-IICT. Educational background: PhD - Thesis Submitted, DA-IICT Gandhinagar. Research interests include Database Management, Distributed Database Management, Edge Computing. database management distributed database management edge computing"
+  },
+  {
+    "faculty_id":81,
+    "name":"Kripabandhu ghosh",
+    "faculty_type":"Adjunct Faculty",
+    "education":"",
+    "bio":"Kripabandhu ghosh is a Adjunct Faculty at DA-IICT. Educational background: . Research interests include Information Retrieval\/Data Mining\/AI on Legal Domain.",
+    "specialization_list":[
+      "information retrieval\/data mining\/ai on legal domain"
+    ],
+    "research_tags":[
+      "domain",
+      "information",
+      "legal",
+      "mining\/ai",
+      "retrieval\/data"
+    ],
+    "email":"kripaghosh@iiserkol.ac.in",
+    "phone":"Not Available",
+    "address":"Department of Computational and Data Sciences, Indian Institute of Science Education and Research (IISER) Kolkata",
+    "combined_text":"Kripabandhu ghosh Adjunct Faculty Kripabandhu ghosh is a Adjunct Faculty at DA-IICT. Educational background: . Research interests include Information Retrieval\/Data Mining\/AI on Legal Domain. information retrieval\/data mining\/ai on legal domain"
+  },
+  {
+    "faculty_id":82,
+    "name":"Kuntala dasgupta",
+    "faculty_type":"Adjunct Faculty",
+    "education":"BSc, Calcutta University",
+    "bio":"Kuntala dasgupta is a Adjunct Faculty at DA-IICT. Educational background: BSc, Calcutta University. Research interests include Rabindra Sangeet, North Indian, Classical, India Film Music and History.",
+    "specialization_list":[
+      "rabindra sangeet",
+      "north indian",
+      "classical",
+      "india film music and history"
+    ],
+    "research_tags":[
+      "and",
+      "classical",
+      "film",
+      "history",
+      "india",
+      "indian",
+      "music",
+      "north",
+      "rabindra",
+      "sangeet"
+    ],
+    "email":"sdg.dau@gmail.com",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Kuntala dasgupta Adjunct Faculty Kuntala dasgupta is a Adjunct Faculty at DA-IICT. Educational background: BSc, Calcutta University. Research interests include Rabindra Sangeet, North Indian, Classical, India Film Music and History. rabindra sangeet north indian classical india film music and history"
+  },
+  {
+    "faculty_id":83,
+    "name":"Nandini banerjee",
+    "faculty_type":"Adjunct Faculty",
+    "education":"MA, M.Phil, PhD (International Economics), MA psychology in Psychotherapy and Counselling",
+    "bio":"Nandini banerjee is a Adjunct Faculty at DA-IICT. Educational background: MA, M.Phil, PhD (International Economics), MA psychology in Psychotherapy and Counselling. Research interests include Economics, Psychology, Soft skills. Certifications in Basic counseling course – Counseling development program (CDP), Advanced counseling course (ADP), Theoretical and experiential training on Fundamentals of Cognitive Behavior Therapy (CBT)….",
+    "specialization_list":[
+      "economics",
+      "psychology",
+      "soft skills. certifications in basic counseling course – counseling development program (cdp)",
+      "advanced counseling course (adp)",
+      "theoretical and experiential training on fundamentals of cognitive behavior therapy (cbt)…"
+    ],
+    "research_tags":[
+      "(adp)",
+      "(cbt)…",
+      "(cdp)",
+      "advanced",
+      "and",
+      "basic",
+      "behavior",
+      "certifications",
+      "cognitive",
+      "counseling",
+      "course",
+      "development",
+      "economics",
+      "experiential",
+      "fundamentals",
+      "program",
+      "psychology",
+      "skills.",
+      "soft",
+      "theoretical",
+      "therapy",
+      "training"
+    ],
+    "email":"nandini_banerjee@dau.ac.in",
+    "phone":"07968261620",
+    "address":"# 2110, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Nandini banerjee Adjunct Faculty Nandini banerjee is a Adjunct Faculty at DA-IICT. Educational background: MA, M.Phil, PhD (International Economics), MA psychology in Psychotherapy and Counselling. Research interests include Economics, Psychology, Soft skills. Certifications in Basic counseling course – Counseling development program (CDP), Advanced counseling course (ADP), Theoretical and experiential training on Fundamentals of Cognitive Behavior Therapy (CBT)…. economics psychology soft skills. certifications in basic counseling course – counseling development program (cdp) advanced counseling course (adp) theoretical and experiential training on fundamentals of cognitive behavior therapy (cbt)…"
+  },
+  {
+    "faculty_id":84,
+    "name":"Nikita desai",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Design), DA-IICT Gandhinagar",
+    "bio":"Nikita desai is a Adjunct Faculty at DA-IICT. Educational background: PhD (Design), DA-IICT Gandhinagar. Research interests include Interaction Design Immersive Experience Design.",
+    "specialization_list":[
+      "interaction design immersive experience design"
+    ],
+    "research_tags":[
+      "design",
+      "experience",
+      "immersive",
+      "interaction"
+    ],
+    "email":"nikita_d@dau.ac.in,nikitadesai82@gmail.com",
+    "phone":"919825169337",
+    "address":"Not Available",
+    "combined_text":"Nikita desai Adjunct Faculty Nikita desai is a Adjunct Faculty at DA-IICT. Educational background: PhD (Design), DA-IICT Gandhinagar. Research interests include Interaction Design Immersive Experience Design. interaction design immersive experience design"
+  },
+  {
+    "faculty_id":85,
+    "name":"Parth mehta",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Information and Communication Technology), DA-IICT Gandhinagar",
+    "bio":"Parth mehta is a Adjunct Faculty at DA-IICT. Educational background: PhD (Information and Communication Technology), DA-IICT Gandhinagar. Research interests include Natural Language Processing, Large Language Models, Information Retrieval, Deep Learning.",
+    "specialization_list":[
+      "natural language processing",
+      "large language models",
+      "information retrieval",
+      "deep learning"
+    ],
+    "research_tags":[
+      "deep",
+      "information",
+      "language",
+      "large",
+      "learning",
+      "models",
+      "natural",
+      "processing",
+      "retrieval"
+    ],
+    "email":"parth_mehta@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Parth mehta Adjunct Faculty Parth mehta is a Adjunct Faculty at DA-IICT. Educational background: PhD (Information and Communication Technology), DA-IICT Gandhinagar. Research interests include Natural Language Processing, Large Language Models, Information Retrieval, Deep Learning. natural language processing large language models information retrieval deep learning"
+  },
+  {
+    "faculty_id":86,
+    "name":"Prashant grover",
+    "faculty_type":"Adjunct Faculty",
+    "education":"B.Sc (Hons) - Animation & Multi., Birla Institute of Technology",
+    "bio":"Prashant grover is a Adjunct Faculty at DA-IICT. Educational background: B.Sc (Hons) - Animation & Multi., Birla Institute of Technology. Research interests include Animation.",
+    "specialization_list":[
+      "animation"
+    ],
+    "research_tags":[
+      "animation"
+    ],
+    "email":"prashant_grover@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Prashant grover Adjunct Faculty Prashant grover is a Adjunct Faculty at DA-IICT. Educational background: B.Sc (Hons) - Animation & Multi., Birla Institute of Technology. Research interests include Animation. animation"
+  },
+  {
+    "faculty_id":87,
+    "name":"Prosenjit ganguly",
+    "faculty_type":"Adjunct Faculty",
+    "education":"4yr Diploma (now B.Des) in Animation Film Design, NID",
+    "bio":"Prosenjit ganguly is a Adjunct Faculty at DA-IICT. Educational background: 4yr Diploma (now B.Des) in Animation Film Design, NID. Research interests include Animation Film Making, Screenwriting, Story-telling, Character Design, Photography, Illustration, Voice Acting.",
+    "specialization_list":[
+      "animation film making",
+      "screenwriting",
+      "story-telling",
+      "character design",
+      "photography",
+      "illustration",
+      "voice acting"
+    ],
+    "research_tags":[
+      "acting",
+      "animation",
+      "character",
+      "design",
+      "film",
+      "illustration",
+      "making",
+      "photography",
+      "screenwriting",
+      "story-telling",
+      "voice"
+    ],
+    "email":"prosenjit_ganguly@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Prosenjit ganguly Adjunct Faculty Prosenjit ganguly is a Adjunct Faculty at DA-IICT. Educational background: 4yr Diploma (now B.Des) in Animation Film Design, NID. Research interests include Animation Film Making, Screenwriting, Story-telling, Character Design, Photography, Illustration, Voice Acting. animation film making screenwriting story-telling character design photography illustration voice acting"
+  },
+  {
+    "faculty_id":88,
+    "name":"Rudranil das",
+    "faculty_type":"Adjunct Faculty",
+    "education":"Post Graduate Diploma in Textile Design, National Institute of Design (NID), Ahmedabad",
+    "bio":"Rudranil das is a Adjunct Faculty at DA-IICT. Educational background: Post Graduate Diploma in Textile Design, National Institute of Design (NID), Ahmedabad. Research interests include Photography, Traveling, Research & Documentation on various crafts.",
+    "specialization_list":[
+      "photography",
+      "traveling",
+      "research & documentation on various crafts"
+    ],
+    "research_tags":[
+      "crafts",
+      "documentation",
+      "photography",
+      "research",
+      "traveling",
+      "various"
+    ],
+    "email":"rudranil_das@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Rudranil das Adjunct Faculty Rudranil das is a Adjunct Faculty at DA-IICT. Educational background: Post Graduate Diploma in Textile Design, National Institute of Design (NID), Ahmedabad. Research interests include Photography, Traveling, Research & Documentation on various crafts. photography traveling research & documentation on various crafts"
+  },
+  {
+    "faculty_id":89,
+    "name":"Samit bhattacharya",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Computer Science & Engineering), IIT Kharagpur",
+    "bio":"Samit bhattacharya is a Adjunct Faculty at DA-IICT. Educational background: PhD (Computer Science & Engineering), IIT Kharagpur. Research interests include Extended reality (virtual, augmented & mixed reality) Affective & ubiquitous systems Mobile & wearable systems & interactions ICT applications in education, agriculture, & h….",
+    "specialization_list":[
+      "extended reality (virtual",
+      "augmented & mixed reality) affective & ubiquitous systems mobile & wearable systems & interactions ict applications in education",
+      "agriculture",
+      "& h…"
+    ],
+    "research_tags":[
+      "(virtual",
+      "affective",
+      "agriculture",
+      "applications",
+      "augmented",
+      "education",
+      "extended",
+      "ict",
+      "interactions",
+      "mixed",
+      "mobile",
+      "reality",
+      "reality)",
+      "systems",
+      "ubiquitous",
+      "wearable"
+    ],
+    "email":"samit_bhattacharya@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Samit bhattacharya Adjunct Faculty Samit bhattacharya is a Adjunct Faculty at DA-IICT. Educational background: PhD (Computer Science & Engineering), IIT Kharagpur. Research interests include Extended reality (virtual, augmented & mixed reality) Affective & ubiquitous systems Mobile & wearable systems & interactions ICT applications in education, agriculture, & h…. extended reality (virtual augmented & mixed reality) affective & ubiquitous systems mobile & wearable systems & interactions ict applications in education agriculture & h…"
+  },
+  {
+    "faculty_id":90,
+    "name":"Subhas chandra nandy",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Computer Science), University of Calcutta",
+    "bio":"Subhas chandra nandy is a Adjunct Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Calcutta. Research interests include Algorithms, Data Structure, Graph Applications, Computational and Combinatorial Geometry.",
+    "specialization_list":[
+      "algorithms",
+      "data structure",
+      "graph applications",
+      "computational and combinatorial geometry"
+    ],
+    "research_tags":[
+      "algorithms",
+      "and",
+      "applications",
+      "combinatorial",
+      "computational",
+      "data",
+      "geometry",
+      "graph",
+      "structure"
+    ],
+    "email":"subhas_nandy@dau.ac.in",
+    "phone":"07968261717",
+    "address":"# 4105, FB-4, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Subhas chandra nandy Adjunct Faculty Subhas chandra nandy is a Adjunct Faculty at DA-IICT. Educational background: PhD (Computer Science), University of Calcutta. Research interests include Algorithms, Data Structure, Graph Applications, Computational and Combinatorial Geometry. algorithms data structure graph applications computational and combinatorial geometry"
+  },
+  {
+    "faculty_id":91,
+    "name":"Swati priya",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PhD (Heavy Metal Detection in Crops and Soil Clay Mineral Abundance Mapping using Hyperspectral Data),  DA-IICT Gandhinagar",
+    "bio":"Swati priya is a Adjunct Faculty at DA-IICT. Educational background: PhD (Heavy Metal Detection in Crops and Soil Clay Mineral Abundance Mapping using Hyperspectral Data),  DA-IICT Gandhinagar. Research interests include Remote sensing and GIS, Precision agriculture, and Crop modelling precision agriculture.",
+    "specialization_list":[
+      "remote sensing and gis",
+      "precision agriculture",
+      "and crop modelling precision agriculture"
+    ],
+    "research_tags":[
+      "agriculture",
+      "and",
+      "crop",
+      "gis",
+      "modelling",
+      "precision",
+      "remote",
+      "sensing"
+    ],
+    "email":"swati_priya@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Swati priya Adjunct Faculty Swati priya is a Adjunct Faculty at DA-IICT. Educational background: PhD (Heavy Metal Detection in Crops and Soil Clay Mineral Abundance Mapping using Hyperspectral Data),  DA-IICT Gandhinagar. Research interests include Remote sensing and GIS, Precision agriculture, and Crop modelling precision agriculture. remote sensing and gis precision agriculture and crop modelling precision agriculture"
+  },
+  {
+    "faculty_id":92,
+    "name":"Troy vasanth",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PGDPD (Animation Film Design), NID, Ahmedabad",
+    "bio":"Troy vasanth is a Adjunct Faculty at DA-IICT. Educational background: PGDPD (Animation Film Design), NID, Ahmedabad. Research interests include Sound Design, 3D, Animation and Motion Design.",
+    "specialization_list":[
+      "sound design",
+      "3d",
+      "animation and motion design"
+    ],
+    "research_tags":[
+      "and",
+      "animation",
+      "design",
+      "motion",
+      "sound"
+    ],
+    "email":"troy_vasanth@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Troy vasanth Adjunct Faculty Troy vasanth is a Adjunct Faculty at DA-IICT. Educational background: PGDPD (Animation Film Design), NID, Ahmedabad. Research interests include Sound Design, 3D, Animation and Motion Design. sound design 3d animation and motion design"
+  },
+  {
+    "faculty_id":93,
+    "name":"Umang shah",
+    "faculty_type":"Adjunct Faculty",
+    "education":"PDP Programme, Aalto University, Finland",
+    "bio":"Umang shah is a Adjunct Faculty at DA-IICT. Educational background: PDP Programme, Aalto University, Finland. Research interests include a. Integrated Interdisciplinary Design b. Design and Technology c. Aesthetic Detailings and Manufacturing d. Radical and Incremental Innovation..",
+    "specialization_list":[
+      "a. integrated interdisciplinary design b. design and technology c. aesthetic detailings and manufacturing d. radical and incremental innovation."
+    ],
+    "research_tags":[
+      "aesthetic",
+      "and",
+      "design",
+      "detailings",
+      "incremental",
+      "innovation.",
+      "integrated",
+      "interdisciplinary",
+      "manufacturing",
+      "radical",
+      "technology"
+    ],
+    "email":"umang_shah@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Umang shah Adjunct Faculty Umang shah is a Adjunct Faculty at DA-IICT. Educational background: PDP Programme, Aalto University, Finland. Research interests include a. Integrated Interdisciplinary Design b. Design and Technology c. Aesthetic Detailings and Manufacturing d. Radical and Incremental Innovation.. a. integrated interdisciplinary design b. design and technology c. aesthetic detailings and manufacturing d. radical and incremental innovation."
+  },
+  {
+    "faculty_id":94,
+    "name":"Jayanth varma",
+    "faculty_type":"Distinguished Professor",
+    "education":"Doctorate in Management, IIM Ahmedabad",
+    "bio":"Jayanth varma is a Distinguished Professor at DA-IICT. Educational background: Doctorate in Management, IIM Ahmedabad. Research interests include Financial Markets and Pricing Models, The Financial Sector, International Finance, and Quantitative Modeling..",
+    "specialization_list":[
+      "financial markets and pricing models",
+      "the financial sector",
+      "international finance",
+      "and quantitative modeling."
+    ],
+    "research_tags":[
+      "and",
+      "finance",
+      "financial",
+      "international",
+      "markets",
+      "modeling.",
+      "models",
+      "pricing",
+      "quantitative",
+      "sector",
+      "the"
+    ],
+    "email":"jayanth_varma@dau.ac.in",
+    "phone":"07968261679",
+    "address":"# 2208, FB-2, DAU, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Jayanth varma Distinguished Professor Jayanth varma is a Distinguished Professor at DA-IICT. Educational background: Doctorate in Management, IIM Ahmedabad. Research interests include Financial Markets and Pricing Models, The Financial Sector, International Finance, and Quantitative Modeling.. financial markets and pricing models the financial sector international finance and quantitative modeling."
+  },
+  {
+    "faculty_id":95,
+    "name":"Vishvajit pandya",
+    "faculty_type":"Distinguished Professor",
+    "education":"PhD (Anthropology), University of Chicago, USA",
+    "bio":"Vishvajit pandya is a Distinguished Professor at DA-IICT. Educational background: PhD (Anthropology), University of Chicago, USA. Research interests include Material Culture, Design and Communication Culture, Visual Anthropology, Anthropology of Space, Rituals and History with specific reference to Colonialism South East Asia.",
+    "specialization_list":[
+      "material culture",
+      "design and communication culture",
+      "visual anthropology",
+      "anthropology of space",
+      "rituals and history with specific reference to colonialism south east asia"
+    ],
+    "research_tags":[
+      "and",
+      "anthropology",
+      "asia",
+      "colonialism",
+      "communication",
+      "culture",
+      "design",
+      "east",
+      "history",
+      "material",
+      "reference",
+      "rituals",
+      "south",
+      "space",
+      "specific",
+      "visual",
+      "with"
+    ],
+    "email":"vishvajit_pandya@dau.ac.in",
+    "phone":"07968261543",
+    "address":"# 2105, FB-2, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Vishvajit pandya Distinguished Professor Vishvajit pandya is a Distinguished Professor at DA-IICT. Educational background: PhD (Anthropology), University of Chicago, USA. Research interests include Material Culture, Design and Communication Culture, Visual Anthropology, Anthropology of Space, Rituals and History with specific reference to Colonialism South East Asia. material culture design and communication culture visual anthropology anthropology of space rituals and history with specific reference to colonialism south east asia"
+  },
+  {
+    "faculty_id":96,
+    "name":"Ajay tomar",
+    "faculty_type":"Professor of Practice",
+    "education":"I.P.S, (1989)",
+    "bio":"Ajay tomar is a Professor of Practice at DA-IICT. Educational background: I.P.S, (1989). Research interests include Mr. Ajay Tomar was retired as the Commissioner of Police, Surat. He was recipient of Police Medal For Meritorious Service 2005 and also the President's Medal For Distinguished Service-2014. KNOW MORE.",
+    "specialization_list":[
+      "mr. ajay tomar was retired as the commissioner of police",
+      "surat. he was recipient of police medal for meritorious service 2005 and also the president's medal for distinguished service-2014. know more"
+    ],
+    "research_tags":[
+      "2005",
+      "ajay",
+      "also",
+      "and",
+      "commissioner",
+      "distinguished",
+      "for",
+      "know",
+      "medal",
+      "meritorious",
+      "more",
+      "mr.",
+      "police",
+      "president's",
+      "recipient",
+      "retired",
+      "service",
+      "service-2014.",
+      "surat.",
+      "the",
+      "tomar",
+      "was"
+    ],
+    "email":"ajay_tomar@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Ajay tomar Professor of Practice Ajay tomar is a Professor of Practice at DA-IICT. Educational background: I.P.S, (1989). Research interests include Mr. Ajay Tomar was retired as the Commissioner of Police, Surat. He was recipient of Police Medal For Meritorious Service 2005 and also the President's Medal For Distinguished Service-2014. KNOW MORE. mr. ajay tomar was retired as the commissioner of police surat. he was recipient of police medal for meritorious service 2005 and also the president's medal for distinguished service-2014. know more"
+  },
+  {
+    "faculty_id":97,
+    "name":"Anirban dutta gupta",
+    "faculty_type":"Professor of Practice",
+    "education":"Graduate in Visual Communication Design, NID Ahmedabad",
+    "bio":"Anirban dutta gupta is a Professor of Practice at DA-IICT. Educational background: Graduate in Visual Communication Design, NID Ahmedabad. Research interests include Natural History & Ethnographic Documentary, Photography, Communication Design, Design for Development & Conservation.",
+    "specialization_list":[
+      "natural history & ethnographic documentary",
+      "photography",
+      "communication design",
+      "design for development & conservation"
+    ],
+    "research_tags":[
+      "communication",
+      "conservation",
+      "design",
+      "development",
+      "documentary",
+      "ethnographic",
+      "for",
+      "history",
+      "natural",
+      "photography"
+    ],
+    "email":"anirban_dutta@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Anirban dutta gupta Professor of Practice Anirban dutta gupta is a Professor of Practice at DA-IICT. Educational background: Graduate in Visual Communication Design, NID Ahmedabad. Research interests include Natural History & Ethnographic Documentary, Photography, Communication Design, Design for Development & Conservation. natural history & ethnographic documentary photography communication design design for development & conservation"
+  },
+  {
+    "faculty_id":98,
+    "name":"Harpreet singh jattana",
+    "faculty_type":"Professor of Practice",
+    "education":"PhD - Pursuing (Microelectronics – SOI CMOS Process Integration & Modelling), IIT Roorkee",
+    "bio":"Harpreet singh jattana is a Professor of Practice at DA-IICT. Educational background: PhD - Pursuing (Microelectronics – SOI CMOS Process Integration & Modelling), IIT Roorkee. Research interests include CMOS Process Development, Device Reliability, CMOS Design, Compound Semiconductors, VLSI Testing & Packaging, Wafer Fabrication.",
+    "specialization_list":[
+      "cmos process development",
+      "device reliability",
+      "cmos design",
+      "compound semiconductors",
+      "vlsi testing & packaging",
+      "wafer fabrication"
+    ],
+    "research_tags":[
+      "cmos",
+      "compound",
+      "design",
+      "development",
+      "device",
+      "fabrication",
+      "packaging",
+      "process",
+      "reliability",
+      "semiconductors",
+      "testing",
+      "vlsi",
+      "wafer"
+    ],
+    "email":"harpreetsingh_jattana@dau.ac.in",
+    "phone":"07968261718",
+    "address":"# 3110, FB-3, DA-IICT, Gandhinagar, Gujarat, India – 382007",
+    "combined_text":"Harpreet singh jattana Professor of Practice Harpreet singh jattana is a Professor of Practice at DA-IICT. Educational background: PhD - Pursuing (Microelectronics – SOI CMOS Process Integration & Modelling), IIT Roorkee. Research interests include CMOS Process Development, Device Reliability, CMOS Design, Compound Semiconductors, VLSI Testing & Packaging, Wafer Fabrication. cmos process development device reliability cmos design compound semiconductors vlsi testing & packaging wafer fabrication"
+  },
+  {
+    "faculty_id":99,
+    "name":"K c supekar",
+    "faculty_type":"Professor of Practice",
+    "education":"PhD (Agricultural Economics), Gokhale Institute of Politics and Economics, Pune (GIPE)",
+    "bio":"K c supekar is a Professor of Practice at DA-IICT. Educational background: PhD (Agricultural Economics), Gokhale Institute of Politics and Economics, Pune (GIPE). Research interests include Dr. Supekar has an extensive experience of about 40 years of cooperative dairy sector in India which ranges from small and marginal farmers at grassroots level to serving as Managing Director of NCDFI for about 13 years. The key areas of interest include upliftment of the rural farmers & women empowerment to bring social and cultural change and bringing in the digital technologies to revamp the Indian rural ecosystem..",
+    "specialization_list":[
+      "dr. supekar has an extensive experience of about 40 years of cooperative dairy sector in india which ranges from small and marginal farmers at grassroots level to serving as managing director of ncdfi for about 13 years. the key areas of interest include upliftment of the rural farmers & women empowerment to bring social and cultural change and bringing in the digital technologies to revamp the indian rural ecosystem."
+    ],
+    "research_tags":[
+      "about",
+      "and",
+      "areas",
+      "bring",
+      "bringing",
+      "change",
+      "cooperative",
+      "cultural",
+      "dairy",
+      "digital",
+      "director",
+      "dr.",
+      "ecosystem.",
+      "empowerment",
+      "experience",
+      "extensive",
+      "farmers",
+      "for",
+      "from",
+      "grassroots",
+      "has",
+      "include",
+      "india",
+      "indian",
+      "interest",
+      "key",
+      "level",
+      "managing",
+      "marginal",
+      "ncdfi",
+      "ranges",
+      "revamp",
+      "rural",
+      "sector",
+      "serving",
+      "small",
+      "social",
+      "supekar",
+      "technologies",
+      "the",
+      "upliftment",
+      "which",
+      "women",
+      "years",
+      "years."
+    ],
+    "email":"kc_supekar@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"K c supekar Professor of Practice K c supekar is a Professor of Practice at DA-IICT. Educational background: PhD (Agricultural Economics), Gokhale Institute of Politics and Economics, Pune (GIPE). Research interests include Dr. Supekar has an extensive experience of about 40 years of cooperative dairy sector in India which ranges from small and marginal farmers at grassroots level to serving as Managing Director of NCDFI for about 13 years. The key areas of interest include upliftment of the rural farmers & women empowerment to bring social and cultural change and bringing in the digital technologies to revamp the Indian rural ecosystem.. dr. supekar has an extensive experience of about 40 years of cooperative dairy sector in india which ranges from small and marginal farmers at grassroots level to serving as managing director of ncdfi for about 13 years. the key areas of interest include upliftment of the rural farmers & women empowerment to bring social and cultural change and bringing in the digital technologies to revamp the indian rural ecosystem."
+  },
+  {
+    "faculty_id":100,
+    "name":"Anil maheshwari",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD, TIFR Bombay",
+    "bio":"Anil maheshwari is a Adjunct faculty international at DA-IICT. Educational background: PhD, TIFR Bombay. Research interests include Design, Analysis and Implementation of Algorithms for Problems arising in Computational Geometry, Graph Theory, Discrete Mathematics, and Data Science..",
+    "specialization_list":[
+      "design",
+      "analysis and implementation of algorithms for problems arising in computational geometry",
+      "graph theory",
+      "discrete mathematics",
+      "and data science."
+    ],
+    "research_tags":[
+      "algorithms",
+      "analysis",
+      "and",
+      "arising",
+      "computational",
+      "data",
+      "design",
+      "discrete",
+      "for",
+      "geometry",
+      "graph",
+      "implementation",
+      "mathematics",
+      "problems",
+      "science.",
+      "theory"
+    ],
+    "email":"anil_maheshwari@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Anil maheshwari Adjunct faculty international Anil maheshwari is a Adjunct faculty international at DA-IICT. Educational background: PhD, TIFR Bombay. Research interests include Design, Analysis and Implementation of Algorithms for Problems arising in Computational Geometry, Graph Theory, Discrete Mathematics, and Data Science.. design analysis and implementation of algorithms for problems arising in computational geometry graph theory discrete mathematics and data science."
+  },
+  {
+    "faculty_id":101,
+    "name":"Anthony r. noerpel",
+    "faculty_type":"Adjunct faculty international",
+    "education":"MSc (Electrical Engineering), New Jersey Institute of Technology, USA",
+    "bio":"Anthony r. noerpel is a Adjunct faculty international at DA-IICT. Educational background: MSc (Electrical Engineering), New Jersey Institute of Technology, USA. Research interests include Cellular and Satellite Communication System Design, RF Propagation, Earth Systems Sciences..",
+    "specialization_list":[
+      "cellular and satellite communication system design",
+      "rf propagation",
+      "earth systems sciences."
+    ],
+    "research_tags":[
+      "and",
+      "cellular",
+      "communication",
+      "design",
+      "earth",
+      "propagation",
+      "satellite",
+      "sciences.",
+      "system",
+      "systems"
+    ],
+    "email":"anthony_noerpel@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Anthony r. noerpel Adjunct faculty international Anthony r. noerpel is a Adjunct faculty international at DA-IICT. Educational background: MSc (Electrical Engineering), New Jersey Institute of Technology, USA. Research interests include Cellular and Satellite Communication System Design, RF Propagation, Earth Systems Sciences.. cellular and satellite communication system design rf propagation earth systems sciences."
+  },
+  {
+    "faculty_id":102,
+    "name":"Gabriella pasi",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Computer Science), University of Rennes, France",
+    "bio":"Gabriella pasi is a Adjunct faculty international at DA-IICT. Educational background: PhD (Computer Science), University of Rennes, France. Research interests include Information Retrieval, Information Filtering, Data Science, Fuzzy Logic.",
+    "specialization_list":[
+      "information retrieval",
+      "information filtering",
+      "data science",
+      "fuzzy logic"
+    ],
+    "research_tags":[
+      "data",
+      "filtering",
+      "fuzzy",
+      "information",
+      "logic",
+      "retrieval",
+      "science"
+    ],
+    "email":"gabriella_pasi@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Gabriella pasi Adjunct faculty international Gabriella pasi is a Adjunct faculty international at DA-IICT. Educational background: PhD (Computer Science), University of Rennes, France. Research interests include Information Retrieval, Information Filtering, Data Science, Fuzzy Logic. information retrieval information filtering data science fuzzy logic"
+  },
+  {
+    "faculty_id":103,
+    "name":"Gaurav sharma",
+    "faculty_type":"Adjunct faculty international",
+    "education":"",
+    "bio":"Gaurav sharma is a Adjunct faculty international at DA-IICT. Educational background: . Research interests include Data Analytics, Cyber Physical Systems, Signal and Image Processing, Computer Vision, Media Security, Communications.",
+    "specialization_list":[
+      "data analytics",
+      "cyber physical systems",
+      "signal and image processing",
+      "computer vision",
+      "media security",
+      "communications"
+    ],
+    "research_tags":[
+      "analytics",
+      "and",
+      "communications",
+      "computer",
+      "cyber",
+      "data",
+      "image",
+      "media",
+      "physical",
+      "processing",
+      "security",
+      "signal",
+      "systems",
+      "vision"
+    ],
+    "email":"gaurav.sharma@rochester.edu",
+    "phone":"Not Available",
+    "address":"Professor of Electrical and Computer Engineering, University of Rochester, CSB 725, Box 270231, Rochester, NY 14627-0231 USA",
+    "combined_text":"Gaurav sharma Adjunct faculty international Gaurav sharma is a Adjunct faculty international at DA-IICT. Educational background: . Research interests include Data Analytics, Cyber Physical Systems, Signal and Image Processing, Computer Vision, Media Security, Communications. data analytics cyber physical systems signal and image processing computer vision media security communications"
+  },
+  {
+    "faculty_id":104,
+    "name":"Nicholas belkin",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Information Studies), University College, University of London",
+    "bio":"Nicholas belkin is a Adjunct faculty international at DA-IICT. Educational background: PhD (Information Studies), University College, University of London. Research interests include Information Retrieval, and Interaction Design.",
+    "specialization_list":[
+      "information retrieval",
+      "and interaction design"
+    ],
+    "research_tags":[
+      "and",
+      "design",
+      "information",
+      "interaction",
+      "retrieval"
+    ],
+    "email":"nicholas_belkin@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Nicholas belkin Adjunct faculty international Nicholas belkin is a Adjunct faculty international at DA-IICT. Educational background: PhD (Information Studies), University College, University of London. Research interests include Information Retrieval, and Interaction Design. information retrieval and interaction design"
+  },
+  {
+    "faculty_id":105,
+    "name":"Nilotpal chakravarti",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Combinatorics and Optimization), University of Waterloo, USA",
+    "bio":"Nilotpal chakravarti is a Adjunct faculty international at DA-IICT. Educational background: PhD (Combinatorics and Optimization), University of Waterloo, USA.",
+    "specialization_list":[
+
+    ],
+    "research_tags":[
+
+    ],
+    "email":"nilotpal_chakravarti@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Nilotpal chakravarti Adjunct faculty international Nilotpal chakravarti is a Adjunct faculty international at DA-IICT. Educational background: PhD (Combinatorics and Optimization), University of Waterloo, USA. "
+  },
+  {
+    "faculty_id":106,
+    "name":"Ranjan pal",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Computer Science), Provost PhD Fellow (Highest Graduate Honor), University of Southern California (USC), Los Angeles, California, USA",
+    "bio":"Ranjan pal is a Adjunct faculty international at DA-IICT. Educational background: PhD (Computer Science), Provost PhD Fellow (Highest Graduate Honor), University of Southern California (USC), Los Angeles, California, USA. Research interests include Cyber Risk Management, Cyber Resilience, Cybersecurity, Decision Science, Algorithmics, Applied Probability.",
+    "specialization_list":[
+      "cyber risk management",
+      "cyber resilience",
+      "cybersecurity",
+      "decision science",
+      "algorithmics",
+      "applied probability"
+    ],
+    "research_tags":[
+      "algorithmics",
+      "applied",
+      "cyber",
+      "cybersecurity",
+      "decision",
+      "management",
+      "probability",
+      "resilience",
+      "risk",
+      "science"
+    ],
+    "email":"ranjanpal9@gmail.com,ranjanp@mit.edu",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Ranjan pal Adjunct faculty international Ranjan pal is a Adjunct faculty international at DA-IICT. Educational background: PhD (Computer Science), Provost PhD Fellow (Highest Graduate Honor), University of Southern California (USC), Los Angeles, California, USA. Research interests include Cyber Risk Management, Cyber Resilience, Cybersecurity, Decision Science, Algorithmics, Applied Probability. cyber risk management cyber resilience cybersecurity decision science algorithmics applied probability"
+  },
+  {
+    "faculty_id":107,
+    "name":"Rita chakravarti",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Multivariate Analysis), University of Pittsburgh",
+    "bio":"Rita chakravarti is a Adjunct faculty international at DA-IICT. Educational background: PhD (Multivariate Analysis), University of Pittsburgh.",
+    "specialization_list":[
+
+    ],
+    "research_tags":[
+
+    ],
+    "email":"rita_chakravarti@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Rita chakravarti Adjunct faculty international Rita chakravarti is a Adjunct faculty international at DA-IICT. Educational background: PhD (Multivariate Analysis), University of Pittsburgh. "
+  },
+  {
+    "faculty_id":108,
+    "name":"S. lakshmivarahan",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Electrical Engineering), Indian Institute of Science, Bangalore",
+    "bio":"S. lakshmivarahan is a Adjunct faculty international at DA-IICT. Educational background: PhD (Electrical Engineering), Indian Institute of Science, Bangalore. Research interests include Big Data Analytics, Dynamic Data Assimilation and Its Applications, Multi-Agent Dynamics and Network Science, Interconnection Networks for Parallel Computers, Learning Algorithms and Computational Finance..",
+    "specialization_list":[
+      "big data analytics",
+      "dynamic data assimilation and its applications",
+      "multi-agent dynamics and network science",
+      "interconnection networks for parallel computers",
+      "learning algorithms and computational finance."
+    ],
+    "research_tags":[
+      "algorithms",
+      "analytics",
+      "and",
+      "applications",
+      "assimilation",
+      "big",
+      "computational",
+      "computers",
+      "data",
+      "dynamic",
+      "dynamics",
+      "finance.",
+      "for",
+      "interconnection",
+      "its",
+      "learning",
+      "multi-agent",
+      "network",
+      "networks",
+      "parallel",
+      "science"
+    ],
+    "email":"s_lakshmivarahan@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"S. lakshmivarahan Adjunct faculty international S. lakshmivarahan is a Adjunct faculty international at DA-IICT. Educational background: PhD (Electrical Engineering), Indian Institute of Science, Bangalore. Research interests include Big Data Analytics, Dynamic Data Assimilation and Its Applications, Multi-Agent Dynamics and Network Science, Interconnection Networks for Parallel Computers, Learning Algorithms and Computational Finance.. big data analytics dynamic data assimilation and its applications multi-agent dynamics and network science interconnection networks for parallel computers learning algorithms and computational finance."
+  },
+  {
+    "faculty_id":109,
+    "name":"Stefano mizzaro",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Information Engineering), University of Trieste, Italy",
+    "bio":"Stefano mizzaro is a Adjunct faculty international at DA-IICT. Educational background: PhD (Information Engineering), University of Trieste, Italy. Research interests include Information Retrieval, Artificial Intelligence.",
+    "specialization_list":[
+      "information retrieval",
+      "artificial intelligence"
+    ],
+    "research_tags":[
+      "artificial",
+      "information",
+      "intelligence",
+      "retrieval"
+    ],
+    "email":"mizzaro@uniud.it",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Stefano mizzaro Adjunct faculty international Stefano mizzaro is a Adjunct faculty international at DA-IICT. Educational background: PhD (Information Engineering), University of Trieste, Italy. Research interests include Information Retrieval, Artificial Intelligence. information retrieval artificial intelligence"
+  },
+  {
+    "faculty_id":110,
+    "name":"Thomas mandl",
+    "faculty_type":"Adjunct faculty international",
+    "education":"PhD (Information Science), University of Hildesheim, Germany",
+    "bio":"Thomas mandl is a Adjunct faculty international at DA-IICT. Educational background: PhD (Information Science), University of Hildesheim, Germany. Research interests include Information Science, Cognitive Similarity Learning in Information Retrieval and Information Management.",
+    "specialization_list":[
+      "information science",
+      "cognitive similarity learning in information retrieval and information management"
+    ],
+    "research_tags":[
+      "and",
+      "cognitive",
+      "information",
+      "learning",
+      "management",
+      "retrieval",
+      "science",
+      "similarity"
+    ],
+    "email":"thomas_mandl@dau.ac.in",
+    "phone":"Not Available",
+    "address":"Not Available",
+    "combined_text":"Thomas mandl Adjunct faculty international Thomas mandl is a Adjunct faculty international at DA-IICT. Educational background: PhD (Information Science), University of Hildesheim, Germany. Research interests include Information Science, Cognitive Similarity Learning in Information Retrieval and Information Management. information science cognitive similarity learning in information retrieval and information management"
+  }
+]
