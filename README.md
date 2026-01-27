@@ -142,7 +142,7 @@ python scraper/all_faculty_scrapper.py
 ```
 ### 3️ Transform Data
 ```bash
-python transform/faculty_transformed.py
+python transform/daiict_faculty_transformed.py
 ```
 
 ### 4️ Load Data into Database
@@ -165,3 +165,4 @@ uvicorn main:app --reload
 - API development using FastAPI
 
 - Modular and maintainable code organization
+
