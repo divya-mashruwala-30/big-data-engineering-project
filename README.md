@@ -138,7 +138,7 @@ pip install -r requirements.txt
 
 ### 2️ Scrape Faculty Data
 ```bash
-python scraper/scrape_faculty.py
+python scraper/all_faculty_scrapper.py
 ```
 ### 3️ Transform Data
 ```bash
@@ -163,4 +163,5 @@ uvicorn main:app --reload
 - Data cleaning and transformation
 - Schema design and relational storage
 - API development using FastAPI
+
 - Modular and maintainable code organization
