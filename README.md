@@ -126,6 +126,59 @@ Assignment1/<br>
 
 ---
 
+## 📊 Dataset Insights & Analysis
+
+After building the data pipeline and transforming the dataset, exploratory analysis was performed to understand the structure, distribution, and completeness of the faculty data.
+
+---
+
+### 🔹 Dataset Overview
+
+- **Total Faculty Records:** 110  
+- The dataset contains profiles from multiple faculty categories including core faculty, adjunct faculty, and professors of practice.
+
+---
+
+### 🔹 Faculty Distribution
+
+| Faculty Type | Count |
+|--------------|------|
+| Faculty | 67 |
+| Adjunct Faculty | 26 |
+| Adjunct Faculty International | 11 |
+| Professor of Practice | 4 |
+| Distinguished Professor | 2 |
+
+
+This distribution shows that the dataset is dominated by regular faculty, with additional contributions from adjunct and practice professors.
+
+---
+
+### 🔹 Research Specialization Trends
+
+- **Total Unique Research Areas Identified:** 353  
+- **Top 5 Research Areas:**
+  - Machine Learning (6)
+  - Information Retrieval (6)
+  - Computer Vision (6)
+  - Natural Language Processing (5)
+  - Image Processing (5)
+
+These trends indicate strong representation of modern computing and AI-driven research domains.
+
+---
+
+### 🔹 Data Quality Summary
+
+- **Fully Detailed Profiles (Education + Email + Specialization):** 106  
+- The dataset demonstrates strong completeness and is suitable for further analytics, semantic search, and NLP-based applications.
+
+---
+
+These insights confirm that the pipeline successfully produced a **diverse, information-rich, and analysis-ready dataset**.
+
+---
+
 ## ▶️ How to Run
 
 ### 1️ Create Virtual Environment & Install Dependencies
@@ -165,4 +218,5 @@ uvicorn main:app --reload
 - API development using FastAPI
 
 - Modular and maintainable code organization
+
 
