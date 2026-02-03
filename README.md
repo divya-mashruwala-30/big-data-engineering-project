@@ -170,8 +170,30 @@ These trends indicate strong representation of modern computing and AI-driven re
 
 ### 🔹 Data Quality Summary
 
-- **Fully Detailed Profiles (Education + Email + Specialization):** 106  
-- The dataset demonstrates strong completeness and is suitable for further analytics, semantic search, and NLP-based applications.
+A column-wise missing value audit was performed on the transformed faculty dataset to ensure completeness and reliability.
+
+| Column Name          | Null (NaN) | Not Available | Empty String |
+|----------------------|------------|---------------|--------------|
+| faculty_id           | 0          | 0             | 0            |
+| name                 | 0          | 0             | 0            |
+| faculty_type         | 0          | 0             | 0            |
+| education            | 2          | 0             | 0            |
+| bio                  | 0          | 0             | 0            |
+| specialization_list  | 0          | 0             | 0            |
+| research_tags        | 0          | 0             | 0            |
+| email                | 0          | 1             | 0            |
+| phone                | 0          | 32            | 0            |
+| address              | 0          | 35            | 0            |
+| combined_text        | 0          | 0             | 0            |
+
+### 🔍 Observations
+
+- The dataset contains **no actual null values** in most critical fields.
+- Missing values are primarily represented using **"Not Available"** placeholders.
+- Contact-related fields such as **phone** and **address** have the highest number of unavailable entries.
+- Core analytical fields such as **name, faculty type, bio, and research information** are fully populated.
+
+This indicates that the dataset is **structurally complete and suitable for downstream analytics, recommendation systems, and NLP-based applications**.
 
 ---
 
@@ -218,5 +240,6 @@ uvicorn main:app --reload
 - API development using FastAPI
 
 - Modular and maintainable code organization
+
 
 
