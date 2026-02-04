@@ -1,7 +1,7 @@
 import sqlite3
 
-DB_PATH = "db/faculty_finder.db"
-SCHEMA_PATH = "db/schema.sql"
+DB_PATH = "Assignment1/db/faculty_finder.db"
+SCHEMA_PATH = "Assignment1/db/schema.sql"
 
 conn = sqlite3.connect(DB_PATH)
 
