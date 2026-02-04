@@ -20,4 +20,5 @@ EXPOSE 8501
 # Using shell form to allow variable expansion if needed, though specific port 8501 is exposed above.
 # Railway usually injects PORT, but Streamlit default is 8501. 
 # We'll use sh -c to be flexible with PORT env var if provided, defaulting to 8501.
-CMD sh -c 'streamlit run streamlit.py --server.port=${PORT:-8501} --server.address=0.0.0.0'
+CMD ["sh", "-c", "streamlit run streamlit.py --server.port=$PORT --server.address=0.0.0.0"]
+
