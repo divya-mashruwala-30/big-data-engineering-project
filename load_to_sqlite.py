@@ -1,10 +1,11 @@
 import pandas as pd
 import sqlite3
 import json
+import os
 
-DB_PATH = "db/faculty_finder.db"
-CSV_PATH = "daiict_faculty_transformed.csv"
-
+DB_PATH = "Assignment1/db/faculty_finder.db"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CSV_PATH = os.path.join(BASE_DIR, "daiict_faculty_transformed.csv")
 
 df = pd.read_csv(CSV_PATH)
 
@@ -19,7 +20,7 @@ conn = sqlite3.connect(DB_PATH)
 df.to_sql(
     "faculty",
     conn,
-    if_exists="append", 
+    if_exists="replace", 
     index=False
 )
 
