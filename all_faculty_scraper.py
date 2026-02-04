@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
+import unicodedata
 
 FACULTY_URLS = {
     "Faculty": "https://www.daiict.ac.in/faculty",
@@ -10,7 +12,51 @@ FACULTY_URLS = {
     "Adjunct faculty international": "https://www.daiict.ac.in/adjunct-faculty-international"
 }
 
+CATEGORY_PATHS = {
+    "Faculty": "faculty",
+    "Adjunct Faculty": "adjunct-faculty",
+    "Adjunct faculty international": "adjunct-faculty-international",
+    "Distinguished Professor": "distinguished-professor",
+    "Professor of Practice": "professor-practice"
+}
+
+
 OUTPUT_FILE = "daiict_all_faculty_raw.json"
+
+def create_slug(name):
+    name = re.sub(r'\(.*?\)', '', name)
+    slug = name.lower()
+    slug = unicodedata.normalize('NFKD', slug).encode('ascii', 'ignore').decode('utf-8')
+    slug = re.sub(r'\b(dr|prof)\.?\s*', '', slug)
+    slug = re.sub(r'[^a-z0-9]+', '-', slug)
+    slug = slug.strip('-')
+    return slug
+
+
+def get_faculty_bio(name, faculty_type):
+    try:
+        slug = create_slug(name)
+
+        category_path = CATEGORY_PATHS.get(faculty_type)
+        if not category_path:
+            print(f"No category path found for {faculty_type}")
+            return None
+
+        profile_url = f"https://www.daiict.ac.in/{category_path}/{slug}"
+
+        response = requests.get(profile_url, timeout=10)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.text, "html.parser")
+        about_div = soup.find("div", class_="about")
+        bio = about_div.get_text(" ", strip=True) if about_div else None
+
+        return bio
+
+    except Exception as e:
+        print(f"Failed to fetch bio for {name}: {e}")
+        return None
+
 
 
 def scrape_faculty_page(url, faculty_type):
@@ -33,6 +79,8 @@ def scrape_faculty_page(url, faculty_type):
         personal_div = (card.find("div", class_="personalDetails") or card.find("div", class_="personalDetail") or card.find("div", class_="personalsDetails"))
         name_tag = personal_div.find("h3") if personal_div else None
         name = name_tag.get_text(strip=True) if name_tag else None
+        bio = get_faculty_bio(name, faculty_type) if name else None
+
 
         edu_div = card.find("div", class_="facultyEducation")
         education = edu_div.get_text(" ", strip=True) if edu_div else None
@@ -55,6 +103,7 @@ def scrape_faculty_page(url, faculty_type):
         faculty_records.append({
             "name": name,
             "education": education,
+            "bio": bio,
             "phone": phone,
             "address": address,
             "email": email,
