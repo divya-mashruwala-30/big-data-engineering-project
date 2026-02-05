@@ -1,7 +1,12 @@
 import streamlit as st
-from recommender import recommend_faculty
+from recommender import load_resources, search_faculty
 
 st.set_page_config(page_title="Faculty Finder", layout="wide")
+
+# ---------- Resources Loading (Lazy - loads on first search) ----------
+@st.cache_resource
+def get_resources():
+    return load_resources()
 
 # ---------- Advanced Styling ----------
 st.markdown("""
@@ -140,7 +145,10 @@ st.markdown("""
 query = st.text_input("🔍 Search by name, research topic, or university")
 
 if query:
-    results = recommend_faculty(query)
+    # Load resources only when user searches (lazy loading for faster startup)
+    with st.spinner("🔍 Loading AI Models and searching..."):
+        df, model, index = get_resources()
+        results = search_faculty(query, df, model, index)
 
     if results.empty:
         st.warning("No matching faculty found.")
