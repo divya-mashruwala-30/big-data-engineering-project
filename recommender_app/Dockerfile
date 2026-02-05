@@ -4,8 +4,16 @@ FROM python:3.9-slim
 # Set the working directory in the container
 WORKDIR /app
 
+# Install system dependencies required for FAISS
+RUN apt-get update && apt-get install -y \
+    libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
 # Copy the requirements file into the container at /app
 COPY requirements.txt .
+
+# Install CPU-only PyTorch first (to save space and build time)
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
@@ -17,8 +25,6 @@ COPY . .
 EXPOSE 8501
 
 # Run streamlit when the container launches
-# Using shell form to allow variable expansion if needed, though specific port 8501 is exposed above.
-# Railway usually injects PORT, but Streamlit default is 8501. 
-# We'll use sh -c to be flexible with PORT env var if provided, defaulting to 8501.
-CMD ["sh", "-c", "streamlit run streamlit.py --server.port=$PORT --server.address=0.0.0.0"]
+# Railway injects PORT env var - use it with fallback to 8080
+CMD ["sh", "-c", "streamlit run streamlit.py --server.port=${PORT:-8080} --server.address=0.0.0.0"]
 
