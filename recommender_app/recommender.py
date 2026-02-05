@@ -2,16 +2,14 @@ import pandas as pd
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
+import os
 
-DATA_PATH = "daiict_faculty_transformed.csv"
+# DATA_PATH = "daiict_faculty_transformed.csv"
+# Get the absolute path to the data file relative to this script
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, "daiict_faculty_transformed.csv")
 
-df = pd.read_csv(DATA_PATH)
-df["combined_text"] = df["combined_text"].fillna("")
-df["name_lower"] = df["name"].str.lower()
-df["bio_lower"] = df["bio"].str.lower()
-df["education_lower"] = df["education"].str.lower()
-
-# 🔹 Synonym dictionary
+# Constants
 SYNONYMS = {
     "nlp": "natural language processing",
     "ml": "machine learning",
@@ -25,18 +23,28 @@ model = None
 index = None
 
 
-def initialize_recommender():
-    global model, index
+def load_resources():
+    """
+    Loads the dataframe, model, and FAISS index.
+    Returns:
+        tuple: (df, model, index)
+    """
+    df = pd.read_csv(DATA_PATH)
+    df["combined_text"] = df["combined_text"].fillna("")
+    df["name_lower"] = df["name"].str.lower()
+    df["bio_lower"] = df["bio"].str.lower()
+    df["education_lower"] = df["education"].str.lower()
 
-    if model is None:
-        model = SentenceTransformer("all-mpnet-base-v2")
+    model = SentenceTransformer("all-MiniLM-L6-v2")
 
-        embeddings = model.encode(df["combined_text"].tolist(), convert_to_numpy=True)
-        faiss.normalize_L2(embeddings)
+    embeddings = model.encode(df["combined_text"].tolist(), convert_to_numpy=True)
+    faiss.normalize_L2(embeddings)
 
-        dimension = embeddings.shape[1]
-        index = faiss.IndexFlatIP(dimension)
-        index.add(embeddings)
+    dimension = embeddings.shape[1]
+    index = faiss.IndexFlatIP(dimension)
+    index.add(embeddings)
+    
+    return df, model, index
 
 
 def expand_query(query):
@@ -44,9 +52,17 @@ def expand_query(query):
     return SYNONYMS.get(q, q)
 
 
-def recommend_faculty(query):
-    initialize_recommender()
-
+def search_faculty(query, df, model, index):
+    """
+    Searches for faculty using the provided resources.
+    Args:
+        query (str): User query
+        df (pd.DataFrame): Faculty data
+        model (SentenceTransformer): Embedding model
+        index (faiss.Index): FAISS index
+    Returns:
+        pd.DataFrame: Filtered results
+    """
     query = expand_query(query)
     query_lower = query.lower()
 
