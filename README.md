@@ -1,7 +1,7 @@
-# Faculty Finder – Data Engineering Pipeline
+# [Faculty Finder](https://faculty-find.streamlit.app/) – Data Engineering Pipeline
 
 ## Overview
-**Faculty Finder** is an end-to-end **Data Engineering project** that builds a structured pipeline to extract, clean, store, and serve faculty information from a university website.  
+[Faculty Finder](https://faculty-find.streamlit.app/) is an end-to-end **Data Engineering project** that builds a structured pipeline to extract, clean, store, and serve faculty information from a university website.  
 The system converts unstructured web data into a **queryable, API-driven dataset**, enabling future use cases such as **faculty recommendation systems, internship discovery, and chatbot-based search**.
 
 This repository focuses on the **Data Engineering lifecycle**, covering ingestion, transformation, storage, and serving layers using industry-aligned practices.
@@ -29,22 +29,32 @@ The pipeline is modular, idempotent, and designed for safe re-execution.
 ---
 
 ## Architecture
-
+<center>
 University Website<br>
-↓<br>
+      ↓<br>
 Web Scraping (Requests + BeautifulSoup)<br>
-↓<br>
+      ↓<br>
 Raw JSON Data<br>
-↓<br>
+      ↓<br>
 Data Cleaning & Transformation (Pandas)<br>
-↓<br>
+      ↓<br>
 Clean CSV Dataset<br>
 ↓<br>
 SQLite Database<br>
 ↓<br>
 FastAPI (Read-Only APIs)<br>
+↓<br>
+FAISS Indexing on Faculty profiles<br>
+↓<br>
+Cosine Similarity for matching<br>
+↓<br>
+Docker for containerization and orchestration<br>
+↓<br>
+Streamlit for UI and deployment<br>
+↓<br>
 
----
+[Faculty Recommender System Web App](https://faculty-find.streamlit.app/)
+</center>
 
 ## 🧩 Pipeline Components
 
@@ -96,6 +106,14 @@ A **FastAPI-based read-only API** exposes faculty data for consumption.
 Swagger UI is available at:
 http://127.0.0.1:8000/docs
 
+---
+
+### 5️ Recommender Application
+A **Streamlit** dashboard that consumes the transformed CSV directly to provide interactive search and recommendations.
+- **Input**: `daiict_faculty_transformed.csv`
+- **Core Logic**: FAISS Indexing + Cosine Similarity
+- **Output**: Ranked list of faculty profiles matching the query
+
 
 ---
 
@@ -110,6 +128,13 @@ Assignment1/<br>
 │   |── daiict_faculty_transformed.json<br>
 |   |── daiict_faculty_transformed.csv<br>
 |   └── daiict_all_faculty_raw.json<br>
+│<br>
+├── recommender_app/<br>
+│   |── Dockerfile.txt<br>
+|   └── daiict_faculty_transformed.csv<br>
+|   └── streamlit.py<br>
+|   └── recommender.py<br>
+|   └── requirements.txt<br>
 │<br>
 ├── db/<br>
 │   ├── schema.sql<br>
@@ -170,36 +195,26 @@ These trends indicate strong representation of modern computing and AI-driven re
 
 ### 🔹 Data Quality Summary
 
-A column-wise missing value audit was performed on the transformed faculty dataset to ensure completeness and reliability.
-
-| Column Name          | Null (NaN) | Not Available | Empty String |
-|----------------------|------------|---------------|--------------|
-| faculty_id           | 0          | 0             | 0            |
-| name                 | 0          | 0             | 0            |
-| faculty_type         | 0          | 0             | 0            |
-| education            | 2          | 0             | 0            |
-| bio                  | 0          | 0             | 0            |
-| specialization_list  | 0          | 0             | 0            |
-| research_tags        | 0          | 0             | 0            |
-| email                | 0          | 1             | 0            |
-| phone                | 0          | 32            | 0            |
-| address              | 0          | 35            | 0            |
-| combined_text        | 0          | 0             | 0            |
-
-### 🔍 Observations
-
-- The dataset contains **no actual null values** in most critical fields.
-- Missing values are primarily represented using **"Not Available"** placeholders.
-- Contact-related fields such as **phone** and **address** have the highest number of unavailable entries.
-- Core analytical fields such as **name, faculty type, bio, and research information** are fully populated.
-
-This indicates that the dataset is **structurally complete and suitable for downstream analytics, recommendation systems, and NLP-based applications**.
+- **Fully Detailed Profiles (Education + Email + Specialization):** 106  
+- The dataset demonstrates strong completeness and is suitable for further analytics, semantic search, and NLP-based applications.
 
 ---
 
 These insights confirm that the pipeline successfully produced a **diverse, information-rich, and analysis-ready dataset**.
 
 ---
+
+## 🔹 [Faculty Recommender System](https://faculty-find.streamlit.app/)
+A **Streamlit-based recommender application** has been built on top of the transformed data (`daiict_faculty_transformed.csv`). This system allows users to search for faculty members using natural language queries.
+#### **Key Features:**
+- **Hybrid Search Logic**:
+  1.  **Exact Name Match**: Instantly finds faculty by name.
+  2.  **Keyword Match**: Filters based on research interests (e.g., "Deep Learning", "VLSI").
+  3.  **Semantic Search**: Uses **vector embeddings** to find conceptual matches even if exact keywords are missing (e.g., query "brain computer interface" matches "Human-Computer Interaction").
+- **Vector Search Engine**: Powered by **FAISS** (Facebook AI Similarity Search) for high-performance similarity search.
+- **Embeddings**: Uses **Sentence-BERT (`all-MiniLM-L6-v2`)** to generate 384-dimensional dense vectors for faculty profiles.
+- **Interactive UI**: A modern dashboard built with **Streamlit**, featuring profile cards, dynamic filtering, and direct links to faculty profile pages.
+
 
 ## ▶️ How to Run
 
@@ -213,11 +228,11 @@ pip install -r requirements.txt
 
 ### 2️ Scrape Faculty Data
 ```bash
-python scraper/all_faculty_scrapper.py
+python scraper/all_faculty_scraper.py
 ```
 ### 3️ Transform Data
 ```bash
-python transform/daiict_faculty_transformed.py
+python transform/faculty_transformed.py
 ```
 
 ### 4️ Load Data into Database
@@ -229,6 +244,23 @@ python load_to_sqlite.py
 ```bash
 uvicorn main:app --reload
 ```
+
+### 6️ Start Recommender App
+```bash
+streamlit run recommender_app/streamlit.py
+```
+
+### 7️ Access Live Demo
+[Faculty Finder App](https://faculty-find.streamlit.app/)
+
+## 🚀 Future Enhancements
+
+- **Automated Data Pipeline**: Integrate **Apache Airflow** or **Prefect** to schedule weekly scraping and updates.
+- **LLM-Powered Chatbot**: Build a **RAG (Retrieval-Augmented Generation)** system to allow students to chat with the dataset (e.g., "Who works on NLP?").
+- **Knowledge Graph**: Migrate to **Neo4j** to model complex relationships between faculty, research areas, and publications.
+- **Cloud Deployment**: Containerize the full stack using **Docker Compose** and deploy on **AWS/GCP** for global access.
+- **Research Collaboration Network**: Visualize co-authorship and research overlap using graph algorithms.
+
 ---
 
 ## 🎓 Learning Outcomes
@@ -238,8 +270,6 @@ uvicorn main:app --reload
 - Data cleaning and transformation
 - Schema design and relational storage
 - API development using FastAPI
-
-- Modular and maintainable code organization
-
-
-
+- **Vector Search & Embeddings**: Implementing semantic search using FAISS and Sentence Transformers.
+- **Interactive Dashboards**: Building data-driven applications with **Streamlit**.
+- **Containerization**: Using **Docker** for reproducible deployments.
